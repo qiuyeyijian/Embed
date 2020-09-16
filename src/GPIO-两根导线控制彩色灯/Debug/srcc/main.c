@@ -20,105 +20,55 @@ int main(void)
     DISABLE_INTERRUPTS;
     wdog_stop();
 
-    //1. 找到端口相应的基地址，可以参考KL36参考手册
-    volatile uint32_t *portA_base = (uint32_t *)0x40049000u;
-    volatile uint32_t *portC_base = (uint32_t *)0x4004B000u;
+    //1. 模块初始化
+    gpio_init(LIGHT_RED, GPIO_OUTPUT, LIGHT_OFF);
+    gpio_init(LIGHT_GREEN, GPIO_OUTPUT, LIGHT_OFF);
+    gpio_init(LIGHT_BLUE, GPIO_OUTPUT, LIGHT_OFF);
+    gpio_init(SWITCH_0, GPIO_INPUT, LIGHT_OFF);
+    gpio_init(SWITCH_1, GPIO_INPUT, LIGHT_OFF);
 
-    //2. 找到端口相应引脚控制器的地址
-    volatile uint32_t *portA_pcr_5 = portA_base + 5;   //红灯
-    volatile uint32_t *portA_pcr_12 = portA_base + 12; //绿灯
-    volatile uint32_t *portA_pcr_13 = portA_base + 13; //蓝灯
-    volatile uint32_t *portC_pcr_0 = portC_base + 0;
-    volatile uint32_t *portC_pcr_1 = portC_base + 1;
+    //2. 引脚下拉
+    gpio_pull(SWITCH_0, PULL_DOWN);
+    gpio_pull(SWITCH_1, PULL_DOWN);
 
-    //3. 将端口的相应引脚设置成 GPIO
-    *portA_pcr_5 &= ~0x700u; //清MUX位段
-    *portA_pcr_5 |= 0x100u;
-    *portA_pcr_12 &= ~0x700u; //清MUX位段
-    *portA_pcr_12 |= 0x100u;
-    *portA_pcr_13 &= ~0x700u; //清MUX位段
-    *portA_pcr_13 |= 0x100u;
-    *portC_pcr_0 &= ~0x700u; //清MUX位段
-    *portC_pcr_0 |= 0x100u;
-    *portC_pcr_1 &= ~0x700u; //清MUX位段
-    *portC_pcr_1 |= 0x100u;
-
-    //4. 找到端口相应GPIO寄存器的基地址
-    volatile uint32_t *gpioA_base = (uint32_t *)0x400FF000u;
-    volatile uint32_t *gpioC_base = (uint32_t *)0x400FF080u;
-
-    //6. 找到端口的 GPIO数据输出寄存器 pdor
-    volatile uint32_t *portA_pdor = gpioA_base + 0;
-    volatile uint32_t *portC_pdor = gpioC_base + 0;
-
-    //7. 找到端口的 GPIO数据输入寄存器 pdir
-    volatile uint32_t *portA_pdir = gpioA_base + 4;
-    volatile uint32_t *portC_pdir = gpioC_base + 4;
-
-    //8. 找到端口的GPIO数据方向寄存器地址
-    volatile uint32_t *portA_pddr = gpioA_base + 5;
-    volatile uint32_t *portC_pddr = gpioC_base + 5;
-
-    //9. 定义相应引脚的输入输出状态
-    *portA_pddr |= (1 << 5);
-    *portA_pddr |= (1 << 12);
-    *portA_pddr |= (1 << 13);
-    *portC_pddr &= ~(3 << 0);
-
-    //================================================================
-    // 对灯的状态进行初始化
-    *portA_pdor |= (1 << 5);
-    *portA_pdor |= (1 << 12);
-    *portA_pdor |= (1 << 13);
+    //
 
     //【不变】开总中断
     ENABLE_INTERRUPTS;
 
-    uint32_t mMainLoopCount; //主循环使用的记录主循环次数变量
-
     for (;;) //for(;;)（开头）
     {
-        // 主循环次数+1，并判断是否小于特定常数
-        mMainLoopCount++;               //+1
-        if (mMainLoopCount <= 13113354) //13113354
-            continue;                   //如果小于特定常数，继续循环
-        mMainLoopCount = 0;             //清主循环次数
-
         // 取相应引脚的输入状态
-        volatile uint8_t portC_pin_0_state = (*portC_pdir >> 0) & 1;
-        volatile uint8_t portC_pin_1_state = (*portC_pdir >> 1) & 1;
-
-        printf("\nportC_pin_0: %d", portC_pin_0_state);
-        printf("\nportC_pin_1: %d", portC_pin_1_state);
+        volatile uint8_t switch_0_status = gpio_get(SWITCH_0);
+        volatile uint8_t switch_1_status = gpio_get(SWITCH_1);
 
         // volatile uint8_t flag = (portC_pin_1_state << 1) | portC_pin_1_state;
-        volatile uint8_t flag = portC_pin_0_state + portC_pin_1_state;
+        volatile uint8_t flag = (switch_0_status << 1) | switch_1_status;
         printf("\nflag: %d", flag);
 
         switch (flag)
         {
-        case 0:
-            *portA_pdor |= (1 << 12);
-            *portA_pdor |= (1 << 13);
-            *portA_pdor &= ~(1 << 5); //红灯亮
-
-            break;
         case 1:
-            *portA_pdor |= (1 << 5);
-            *portA_pdor |= (1 << 13);
-            *portA_pdor &= ~(1 << 12); //绿灯亮
-            printf("case 1");
+            gpio_set(LIGHT_BLUE, LIGHT_OFF);
+            gpio_set(LIGHT_RED, LIGHT_OFF);
+            gpio_set(LIGHT_GREEN, LIGHT_ON); //绿灯亮
+
+            break;
+        case 2:
+            gpio_set(LIGHT_BLUE, LIGHT_OFF);
+            gpio_set(LIGHT_GREEN, LIGHT_OFF);
+            gpio_set(LIGHT_RED, LIGHT_ON);
             break;
 
-        case 2:
-            *portA_pdor |= (1 << 5);
-            *portA_pdor |= (1 << 12);
-            *portA_pdor &= ~(1 << 13); //蓝灯亮
+        case 3:
+            gpio_set(LIGHT_RED, LIGHT_OFF);
+            gpio_set(LIGHT_GREEN, LIGHT_OFF);
+            gpio_set(LIGHT_BLUE, LIGHT_ON);
             break;
         default:
-            *portA_pdor |= (1 << 5);
-            *portA_pdor |= (1 << 12);
-            *portA_pdor &= ~(1 << 13); //绿灯亮
+            gpio_set(LIGHT_BLUE, LIGHT_OFF);
+            gpio_set(LIGHT_GREEN, LIGHT_OFF);
+            gpio_set(LIGHT_RED, LIGHT_OFF);
             printf("default");
             break;
         }
