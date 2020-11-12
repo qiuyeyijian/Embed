@@ -1,0 +1,34 @@
+E:\C sharp\Projects05\串口\SCI20100409(完全OK)\SCI\obj\Debug\SerialPort.exe
+E:\C sharp\Projects05\串口\SCI20100409(完全OK)\SCI\obj\Debug\SerialPort.pdb
+E:\C sharp\Projects05\串口\SCI20100409(完全OK)\SCI\bin\Debug\SerialPort.exe
+E:\C sharp\Projects05\串口\SCI20100409(完全OK)\SCI\bin\Debug\SerialPort.pdb
+E:\C sharp\Projects05\串口\SCI20100409(完全OK)\SCI\obj\Debug\ResolveAssemblyReference.cache
+E:\C sharp\Projects05\串口\SCI20100409(完全OK)\SCI\obj\Debug\SerialPort.FrmSCI.resources
+E:\C sharp\Projects05\串口\SCI20100409(完全OK)\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+E:\C sharp\Projects05\串口\SCI20100409(完全OK)\SCI\obj\Debug\SCI.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\高端串口测试程序--李翠霞20100602\03 Software\高端串口测试程序\SCI\obj\Debug\SerialPort.exe
+C:\Documents and Settings\Administrator\桌面\高端串口测试程序--李翠霞20100602\03 Software\高端串口测试程序\SCI\obj\Debug\SerialPort.pdb
+C:\Documents and Settings\Administrator\桌面\高端串口测试程序--李翠霞20100602\03 Software\高端串口测试程序\SCI\bin\Debug\SerialPort.exe
+C:\Documents and Settings\Administrator\桌面\高端串口测试程序--李翠霞20100602\03 Software\高端串口测试程序\SCI\bin\Debug\SerialPort.pdb
+C:\Documents and Settings\Administrator\桌面\高端串口测试程序--李翠霞20100602\03 Software\高端串口测试程序\SCI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\高端串口测试程序--李翠霞20100602\03 Software\高端串口测试程序\SCI\obj\Debug\SerialPort.FrmSCI.resources
+C:\Documents and Settings\Administrator\桌面\高端串口测试程序--李翠霞20100602\03 Software\高端串口测试程序\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\高端串口测试程序--李翠霞20100602\03 Software\高端串口测试程序\SCI\obj\Debug\SCI.csproj.GenerateResource.Cache
+E:\C sharp\Projects05\高端程序汇总\高端串口测试程序--李翠霞20100602\03 Software\高端串口测试程序\SCI\obj\Debug\SerialPort.exe
+E:\C sharp\Projects05\高端程序汇总\高端串口测试程序--李翠霞20100602\03 Software\高端串口测试程序\SCI\obj\Debug\SerialPort.pdb
+E:\C sharp\Projects05\高端程序汇总\高端串口测试程序--李翠霞20100602\03 Software\高端串口测试程序\SCI\bin\Debug\SerialPort.exe
+E:\C sharp\Projects05\高端程序汇总\高端串口测试程序--李翠霞20100602\03 Software\高端串口测试程序\SCI\bin\Debug\SerialPort.pdb
+E:\C sharp\Projects05\高端程序汇总\高端串口测试程序--李翠霞20100602\03 Software\高端串口测试程序\SCI\obj\Debug\ResolveAssemblyReference.cache
+E:\C sharp\Projects05\高端程序汇总\高端串口测试程序--李翠霞20100602\03 Software\高端串口测试程序\SCI\obj\Debug\SerialPort.FrmSCI.resources
+E:\C sharp\Projects05\高端程序汇总\高端串口测试程序--李翠霞20100602\03 Software\高端串口测试程序\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+E:\C sharp\Projects05\高端程序汇总\高端串口测试程序--李翠霞20100602\03 Software\高端串口测试程序\SCI\obj\Debug\SCI.csproj.GenerateResource.Cache
+E:\02-C sharp\Projects05\高端程序汇总\高端串口测试程序--李翠霞20100602\03 Software\高端串口测试程序\SCI\obj\Debug\SerialPort.exe
+E:\02-C sharp\Projects05\高端程序汇总\高端串口测试程序--李翠霞20100602\03 Software\高端串口测试程序\SCI\obj\Debug\SerialPort.pdb
+E:\02-C sharp\Projects05\程序V1.0\03_李翠霞_串口操作20101021\高端串口测试程序\SCI\obj\Debug\SerialPort.exe
+E:\02-C sharp\Projects05\程序V1.0\03_李翠霞_串口操作20101021\高端串口测试程序\SCI\obj\Debug\SerialPort.pdb
+E:\02-C sharp\Projects05\程序V1.0\03_李翠霞_串口操作20101021\高端串口测试程序\SCI\bin\Debug\SerialPort.exe
+E:\02-C sharp\Projects05\程序V1.0\03_李翠霞_串口操作20101021\高端串口测试程序\SCI\bin\Debug\SerialPort.pdb
+E:\02-C sharp\Projects05\程序V1.0\03_李翠霞_串口操作20101021\高端串口测试程序\SCI\obj\Debug\ResolveAssemblyReference.cache
+E:\02-C sharp\Projects05\程序V1.0\03_李翠霞_串口操作20101021\高端串口测试程序\SCI\obj\Debug\SerialPort.FrmSCI.resources
+E:\02-C sharp\Projects05\程序V1.0\03_李翠霞_串口操作20101021\高端串口测试程序\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+E:\02-C sharp\Projects05\程序V1.0\03_李翠霞_串口操作20101021\高端串口测试程序\SCI\obj\Debug\SCI.csproj.GenerateResource.Cache

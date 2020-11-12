@@ -1,0 +1,20 @@
+﻿   该工程有01-Doc、02-Form、03-Function、04-Control、05-Image、06-DataBase、
+07-工程说明以及Properties、app.config几个文件夹。哲理主要说明各个文件夹所放
+的内容，方便用户更快捷地了解该工程。
+  （1）01-Doc，存放该工程的说明文档等，具体的参阅说明文档。
+  （2）02-Form文件夹，放入工程用到的一系列设计界面框。
+  （3）03-Function文件夹，放入功能函数。主要代码文档有Program.cs（表明程序入口）
+、PublicVar.cs（存放全局变量）、SCI.cs（串口通信模块用到的函数）、Zigbee.cs
+（通信节点的信息，与窗体界面无关）、ZigbeeInfo.cs（通信节点与窗体界面相关的接
+口信息，主要是变量）。
+ （4）04-Control文件夹，可以定义用户定义的控件，比如本工程中MACAddressBox、
+IPAddressBox文本框。
+ （5）05-Image文件夹，用于存储工程所用到的图片。右击06-Image。添加现有项。选
+择所有文件，添加需要的图片。接下来右击项目名，选择属性、资源，添加现有文件，导入
+图片，这时会看到导入进来的图片。
+ （6）06-DataBase文件夹，适用于c#+ACCESS操作数据库，用于存放数据库的相关代码。
+ （7）Properties文件夹，定义你程序集的属性 ，有 AssemblyInfo.cs、Resource.cs、
+Settings.settings文件，用于保存程序集的信息，如名称，版本等，这些信息一般与项目
+属性面板中的数据对应，不需要手动编写。
+ （8）app.config文件，app.config是用户自定义配置文件，能够比较灵活修改一些
+配置信息，如数据库连接，使得在配置环境更改就OK了。

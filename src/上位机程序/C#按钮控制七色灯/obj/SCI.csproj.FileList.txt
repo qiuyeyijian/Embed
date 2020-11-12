@@ -1,0 +1,8 @@
+obj\Debug\SerialPort.exe
+obj\Debug\SerialPort.pdb
+bin\Debug\SerialPort.exe
+bin\Debug\SerialPort.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SerialPort.FrmSCI.resources
+obj\Debug\SerialPort.Properties.Resources.resources
+obj\Debug\SCI.csproj.GenerateResource.Cache

@@ -1,0 +1,323 @@
+F:\WYH学习笔记2005-2011\PC高级语言\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\高端串口测试程序20101112(VS2010)\SCI\bin\Debug\SerialPort.exe.config
+F:\WYH学习笔记2005-2011\PC高级语言\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\高端串口测试程序20101112(VS2010)\SCI\obj\Debug\SerialPort.exe
+F:\WYH学习笔记2005-2011\PC高级语言\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\高端串口测试程序20101112(VS2010)\SCI\obj\Debug\SerialPort.pdb
+F:\WYH学习笔记2005-2011\PC高级语言\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\高端串口测试程序20101112(VS2010)\SCI\bin\Debug\SerialPort.exe
+F:\WYH学习笔记2005-2011\PC高级语言\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\高端串口测试程序20101112(VS2010)\SCI\bin\Debug\SerialPort.pdb
+F:\WYH学习笔记2005-2011\PC高级语言\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\高端串口测试程序20101112(VS2010)\SCI\obj\Debug\ResolveAssemblyReference.cache
+F:\WYH学习笔记2005-2011\PC高级语言\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\高端串口测试程序20101112(VS2010)\SCI\obj\Debug\SerialPort.FrmSCI.resources
+F:\WYH学习笔记2005-2011\PC高级语言\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\高端串口测试程序20101112(VS2010)\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+F:\WYH学习笔记2005-2011\PC高级语言\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\高端串口测试程序20101112(VS2010)\SCI\obj\Debug\GenerateResource.read.1.tlog
+F:\WYH学习笔记2005-2011\PC高级语言\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\高端串口测试程序20101112(VS2010)\SCI\obj\Debug\GenerateResource.write.1.tlog
+D:\参考\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\高端串口测试程序20101112(VS2010)\SCI\bin\Debug\SerialPort.exe.config
+D:\参考\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\高端串口测试程序20101112(VS2010)\SCI\obj\Debug\SerialPort.exe
+D:\参考\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\高端串口测试程序20101112(VS2010)\SCI\obj\Debug\SerialPort.pdb
+D:\参考\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\高端串口测试程序20101112(VS2010)\SCI\bin\Debug\SerialPort.exe
+D:\参考\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\高端串口测试程序20101112(VS2010)\SCI\bin\Debug\SerialPort.pdb
+D:\参考\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\高端串口测试程序20101112(VS2010)\SCI\obj\Debug\ResolveAssemblyReference.cache
+D:\参考\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\高端串口测试程序20101112(VS2010)\SCI\obj\Debug\SerialPort.FrmSCI.resources
+D:\参考\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\高端串口测试程序20101112(VS2010)\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+D:\参考\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\高端串口测试程序20101112(VS2010)\SCI\obj\Debug\GenerateResource.read.1.tlog
+D:\参考\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\高端串口测试程序20101112(VS2010)\SCI\obj\Debug\GenerateResource.write.1.tlog
+D:\参考\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\C#2010串口测试程序20101112)\SCI\bin\Debug\SerialPort.exe.config
+D:\参考\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\C#2010串口测试程序20101112)\SCI\bin\Debug\SerialPort.exe
+D:\参考\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\C#2010串口测试程序20101112)\SCI\bin\Debug\SerialPort.pdb
+D:\参考\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\C#2010串口测试程序20101112)\SCI\obj\Debug\ResolveAssemblyReference.cache
+D:\参考\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\C#2010串口测试程序20101112)\SCI\obj\Debug\SerialPort.FrmSCI.resources
+D:\参考\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\C#2010串口测试程序20101112)\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+D:\参考\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\C#2010串口测试程序20101112)\SCI\obj\Debug\GenerateResource.read.1.tlog
+D:\参考\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\C#2010串口测试程序20101112)\SCI\obj\Debug\GenerateResource.write.1.tlog
+D:\参考\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\C#2010串口测试程序20101112)\SCI\obj\Debug\SerialPort.exe
+D:\参考\C#程序汇总2-20101115\03_李翠霞_串口操作20101112\C#2010串口测试程序20101112)\SCI\obj\Debug\SerialPort.pdb
+D:\2012-2013 KL25(20130328)\06-KL25CD\SD-FSL-KL25-CD(v0.99-WYH20130502)\KL25-Program20130502\ch06-UART\C#2010串口测试程序\SCI\bin\Debug\SerialPort.exe.config
+D:\2012-2013 KL25(20130328)\06-KL25CD\SD-FSL-KL25-CD(v0.99-WYH20130502)\KL25-Program20130502\ch06-UART\C#2010串口测试程序\SCI\obj\Debug\SerialPort.exe
+D:\2012-2013 KL25(20130328)\06-KL25CD\SD-FSL-KL25-CD(v0.99-WYH20130502)\KL25-Program20130502\ch06-UART\C#2010串口测试程序\SCI\obj\Debug\SerialPort.pdb
+D:\2012-2013 KL25(20130328)\06-KL25CD\SD-FSL-KL25-CD(v0.99-WYH20130502)\KL25-Program20130502\ch06-UART\C#2010串口测试程序\SCI\bin\Debug\SerialPort.exe
+D:\2012-2013 KL25(20130328)\06-KL25CD\SD-FSL-KL25-CD(v0.99-WYH20130502)\KL25-Program20130502\ch06-UART\C#2010串口测试程序\SCI\bin\Debug\SerialPort.pdb
+D:\2012-2013 KL25(20130328)\06-KL25CD\SD-FSL-KL25-CD(v0.99-WYH20130502)\KL25-Program20130502\ch06-UART\C#2010串口测试程序\SCI\obj\Debug\ResolveAssemblyReference.cache
+D:\2012-2013 KL25(20130328)\06-KL25CD\SD-FSL-KL25-CD(v0.99-WYH20130502)\KL25-Program20130502\ch06-UART\C#2010串口测试程序\SCI\obj\Debug\SerialPort.FrmSCI.resources
+D:\2012-2013 KL25(20130328)\06-KL25CD\SD-FSL-KL25-CD(v0.99-WYH20130502)\KL25-Program20130502\ch06-UART\C#2010串口测试程序\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+D:\2012-2013 KL25(20130328)\06-KL25CD\SD-FSL-KL25-CD(v0.99-WYH20130502)\KL25-Program20130502\ch06-UART\C#2010串口测试程序\SCI\obj\Debug\GenerateResource.read.1.tlog
+D:\2012-2013 KL25(20130328)\06-KL25CD\SD-FSL-KL25-CD(v0.99-WYH20130502)\KL25-Program20130502\ch06-UART\C#2010串口测试程序\SCI\obj\Debug\GenerateResource.write.1.tlog
+F:\SD-FSL-KL25-EVB\SD-FSL-KL25-CD(V1.0)\KL25-Program\ch06-UART\C#2010串口测试程序\SCI\bin\Debug\SerialPort.exe.config
+F:\SD-FSL-KL25-EVB\SD-FSL-KL25-CD(V1.0)\KL25-Program\ch06-UART\C#2010串口测试程序\SCI\obj\Debug\SerialPort.exe
+F:\SD-FSL-KL25-EVB\SD-FSL-KL25-CD(V1.0)\KL25-Program\ch06-UART\C#2010串口测试程序\SCI\obj\Debug\SerialPort.pdb
+F:\kl25z128m4\Leo\ch06-UART\C#2010串口测试程序\SCI\bin\Debug\SerialPort.exe.config
+F:\kl25z128m4\Leo\ch06-UART\C#2010串口测试程序\SCI\obj\Debug\SerialPort.exe
+F:\kl25z128m4\Leo\ch06-UART\C#2010串口测试程序\SCI\obj\Debug\SerialPort.pdb
+F:\kl25z128m4\Leo\ch06-UART\C#2010串口测试程序\SCI\bin\Debug\SerialPort.exe
+F:\kl25z128m4\Leo\ch06-UART\C#2010串口测试程序\SCI\bin\Debug\SerialPort.pdb
+F:\kl25z128m4\Leo\ch06-UART\C#2010串口测试程序\SCI\obj\Debug\ResolveAssemblyReference.cache
+F:\kl25z128m4\Leo\ch06-UART\C#2010串口测试程序\SCI\obj\Debug\SerialPort.FrmSCI.resources
+F:\kl25z128m4\Leo\ch06-UART\C#2010串口测试程序\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+F:\kl25z128m4\Leo\ch06-UART\C#2010串口测试程序\SCI\obj\Debug\GenerateResource.read.1.tlog
+F:\kl25z128m4\Leo\ch06-UART\C#2010串口测试程序\SCI\obj\Debug\GenerateResource.write.1.tlog
+F:\kl25z128m4\Leo\UART-11-09\C#2010串口测试程序\SCI\bin\Debug\SerialPort.exe.config
+F:\kl25z128m4\Leo\UART-11-09\C#2010串口测试程序\SCI\obj\Debug\SerialPort.exe
+F:\kl25z128m4\Leo\UART-11-09\C#2010串口测试程序\SCI\obj\Debug\SerialPort.pdb
+F:\kl25z128m4\Leo\UART-11-09\C#2010串口测试程序\SCI\bin\Debug\SerialPort.exe
+F:\kl25z128m4\Leo\UART-11-09\C#2010串口测试程序\SCI\bin\Debug\SerialPort.pdb
+F:\kl25z128m4\Leo\UART-11-09\C#2010串口测试程序\SCI\obj\Debug\ResolveAssemblyReference.cache
+F:\kl25z128m4\Leo\UART-11-09\C#2010串口测试程序\SCI\obj\Debug\SerialPort.FrmSCI.resources
+F:\kl25z128m4\Leo\UART-11-09\C#2010串口测试程序\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+F:\kl25z128m4\Leo\UART-11-09\C#2010串口测试程序\SCI\obj\Debug\GenerateResource.read.1.tlog
+F:\kl25z128m4\Leo\UART-11-09\C#2010串口测试程序\SCI\obj\Debug\GenerateResource.write.1.tlog
+F:\kl25z128m4\Leo\UART-11-09\C#2010串口测试程序-11-16\SCI\bin\Debug\SerialPort.exe.config
+F:\kl25z128m4\Leo\UART-11-09\C#2010串口测试程序-11-16\SCI\obj\Debug\SerialPort.exe
+F:\kl25z128m4\Leo\UART-11-09\C#2010串口测试程序-11-16\SCI\obj\Debug\SerialPort.pdb
+F:\kl25z128m4\Leo\UART-11-09\C#2010串口测试程序-11-16\SCI\bin\Debug\SerialPort.exe
+F:\kl25z128m4\Leo\UART-11-09\C#2010串口测试程序-11-16\SCI\bin\Debug\SerialPort.pdb
+F:\kl25z128m4\Leo\UART-11-09\C#2010串口测试程序-11-16\SCI\obj\Debug\ResolveAssemblyReference.cache
+F:\kl25z128m4\Leo\UART-11-09\C#2010串口测试程序-11-16\SCI\obj\Debug\SerialPort.FrmSCI.resources
+F:\kl25z128m4\Leo\UART-11-09\C#2010串口测试程序-11-16\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+F:\kl25z128m4\Leo\UART-11-09\C#2010串口测试程序-11-16\SCI\obj\Debug\GenerateResource.read.1.tlog
+F:\kl25z128m4\Leo\UART-11-09\C#2010串口测试程序-11-16\SCI\obj\Debug\GenerateResource.write.1.tlog
+J:\11-18\C#2010串口测试程序-11-16\SCI\bin\Debug\SerialPort.exe.config
+J:\11-18\C#2010串口测试程序-11-16\SCI\obj\Debug\SerialPort.exe
+J:\11-18\C#2010串口测试程序-11-16\SCI\obj\Debug\SerialPort.pdb
+F:\ls\11-18\C#2010串口测试程序-11-16\SCI\bin\Debug\SerialPort.exe.config
+F:\ls\11-18\C#2010串口测试程序-11-16\SCI\obj\Debug\SerialPort.exe
+F:\ls\11-18\C#2010串口测试程序-11-16\SCI\obj\Debug\SerialPort.pdb
+C:\Users\Administrator\Desktop\ls\11-18\C#2010串口测试程序-11-16\SCI\bin\Debug\SerialPort.exe.config
+C:\Users\Administrator\Desktop\ls\11-18\C#2010串口测试程序-11-16\SCI\obj\Debug\SerialPort.exe
+C:\Users\Administrator\Desktop\ls\11-18\C#2010串口测试程序-11-16\SCI\obj\Debug\SerialPort.pdb
+C:\Users\Administrator\Desktop\ls\11-18\C#2010串口测试程序-11-16\SCI\bin\Debug\SerialPort.exe
+C:\Users\Administrator\Desktop\ls\11-18\C#2010串口测试程序-11-16\SCI\bin\Debug\SerialPort.pdb
+C:\Users\Administrator\Desktop\ls\11-18\C#2010串口测试程序-11-16\SCI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ls\11-18\C#2010串口测试程序-11-16\SCI\obj\Debug\SerialPort.FrmSCI.resources
+C:\Users\Administrator\Desktop\ls\11-18\C#2010串口测试程序-11-16\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ls\11-18\C#2010串口测试程序-11-16\SCI\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\ls\11-18\C#2010串口测试程序-11-16\SCI\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\ls\11-18\C#2010串口测试程序-11-18\SCI\bin\Debug\SerialPort.exe.config
+C:\Users\Administrator\Desktop\ls\11-18\C#2010串口测试程序-11-18\SCI\obj\Debug\SerialPort.exe
+C:\Users\Administrator\Desktop\ls\11-18\C#2010串口测试程序-11-18\SCI\obj\Debug\SerialPort.pdb
+C:\Users\Administrator\Desktop\ls\11-18\C#2010串口测试程序-11-18\SCI\bin\Debug\SerialPort.exe
+C:\Users\Administrator\Desktop\ls\11-18\C#2010串口测试程序-11-18\SCI\bin\Debug\SerialPort.pdb
+C:\Users\Administrator\Desktop\ls\11-18\C#2010串口测试程序-11-18\SCI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ls\11-18\C#2010串口测试程序-11-18\SCI\obj\Debug\SerialPort.FrmSCI.resources
+C:\Users\Administrator\Desktop\ls\11-18\C#2010串口测试程序-11-18\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ls\11-18\C#2010串口测试程序-11-18\SCI\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\ls\11-18\C#2010串口测试程序-11-18\SCI\obj\Debug\GenerateResource.write.1.tlog
+E:\2011-2013\Research\2010-2013 BOOK\2012-2013 KL25(20131127)\06-KL25CD\SD-FSL-KL25-CD(V1.3)20131128\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\bin\Debug\SerialPort.exe.config
+E:\2011-2013\Research\2010-2013 BOOK\2012-2013 KL25(20131127)\06-KL25CD\SD-FSL-KL25-CD(V1.3)20131128\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\SerialPort.exe
+E:\2011-2013\Research\2010-2013 BOOK\2012-2013 KL25(20131127)\06-KL25CD\SD-FSL-KL25-CD(V1.3)20131128\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\SerialPort.pdb
+E:\2011-2013\Research\2010-2013 BOOK\2012-2013 KL25(20131127)\06-KL25CD\SD-FSL-KL25-CD(V1.3)20131128\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\bin\Debug\SerialPort.exe
+E:\2011-2013\Research\2010-2013 BOOK\2012-2013 KL25(20131127)\06-KL25CD\SD-FSL-KL25-CD(V1.3)20131128\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\bin\Debug\SerialPort.pdb
+E:\2011-2013\Research\2010-2013 BOOK\2012-2013 KL25(20131127)\06-KL25CD\SD-FSL-KL25-CD(V1.3)20131128\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\ResolveAssemblyReference.cache
+E:\2011-2013\Research\2010-2013 BOOK\2012-2013 KL25(20131127)\06-KL25CD\SD-FSL-KL25-CD(V1.3)20131128\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\SerialPort.FrmSCI.resources
+E:\2011-2013\Research\2010-2013 BOOK\2012-2013 KL25(20131127)\06-KL25CD\SD-FSL-KL25-CD(V1.3)20131128\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+E:\2011-2013\Research\2010-2013 BOOK\2012-2013 KL25(20131127)\06-KL25CD\SD-FSL-KL25-CD(V1.3)20131128\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\GenerateResource.read.1.tlog
+E:\2011-2013\Research\2010-2013 BOOK\2012-2013 KL25(20131127)\06-KL25CD\SD-FSL-KL25-CD(V1.3)20131128\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\GenerateResource.write.1.tlog
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.1)20140302\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\bin\Debug\SerialPort.exe.config
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.1)20140302\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\SerialPort.exe
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.1)20140302\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\SerialPort.pdb
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.1)20140302\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\bin\Debug\SerialPort.exe
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.1)20140302\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\bin\Debug\SerialPort.pdb
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.1)20140302\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\ResolveAssemblyReference.cache
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.1)20140302\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\SerialPort.FrmSCI.resources
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.1)20140302\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.1)20140302\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\GenerateResource.read.1.tlog
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.1)20140302\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\GenerateResource.write.1.tlog
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.2)20140416\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\bin\Debug\SerialPort.exe.config
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.2)20140416\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\SerialPort.exe
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.2)20140416\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\SerialPort.pdb
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.2)20140416\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\bin\Debug\SerialPort.exe
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.2)20140416\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\bin\Debug\SerialPort.pdb
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.2)20140416\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\ResolveAssemblyReference.cache
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.2)20140416\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\SerialPort.FrmSCI.resources
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.2)20140416\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.2)20140416\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\GenerateResource.read.1.tlog
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.2)20140416\KL25-Program\ch06-UART\C#2010串口测试程序20131120\SCI\obj\Debug\GenerateResource.write.1.tlog
+F:\实验室学习\我的文档\C#2010串口测试程序20131120\SCI\bin\Debug\SerialPort.exe.config
+F:\实验室学习\我的文档\C#2010串口测试程序20131120\SCI\obj\Debug\SerialPort.exe
+F:\实验室学习\我的文档\C#2010串口测试程序20131120\SCI\obj\Debug\SerialPort.pdb
+F:\实验室学习\我的文档\C#2010串口测试程序20131120\SCI\bin\Debug\SerialPort.exe
+F:\实验室学习\我的文档\C#2010串口测试程序20131120\SCI\bin\Debug\SerialPort.pdb
+F:\实验室学习\我的文档\C#2010串口测试程序20131120\SCI\obj\Debug\ResolveAssemblyReference.cache
+F:\实验室学习\我的文档\C#2010串口测试程序20131120\SCI\obj\Debug\SerialPort.FrmSCI.resources
+F:\实验室学习\我的文档\C#2010串口测试程序20131120\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+F:\实验室学习\我的文档\C#2010串口测试程序20131120\SCI\obj\Debug\GenerateResource.read.1.tlog
+F:\实验室学习\我的文档\C#2010串口测试程序20131120\SCI\obj\Debug\GenerateResource.write.1.tlog
+E:\C#2010串口测试程序20131120\SCI\bin\Debug\SerialPort.exe.config
+E:\C#2010串口测试程序20131120\SCI\obj\Debug\SerialPort.exe
+E:\C#2010串口测试程序20131120\SCI\obj\Debug\SerialPort.pdb
+E:\C#2010串口测试程序20131120\SCI\bin\Debug\SerialPort.exe
+E:\C#2010串口测试程序20131120\SCI\bin\Debug\SerialPort.pdb
+E:\C#2010串口测试程序20131120\SCI\obj\Debug\SerialPort.FrmSCI.resources
+E:\C#2010串口测试程序20131120\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+E:\C#2010串口测试程序20131120\SCI\obj\Debug\SCI.csproj.GenerateResource.Cache
+E:\C#2010串口测试程序20140505\SCI\bin\Debug\SerialPort.exe.config
+E:\C#2010串口测试程序20140505\SCI\obj\Debug\SerialPort.exe
+E:\C#2010串口测试程序20140505\SCI\obj\Debug\SerialPort.pdb
+F:\实验室学习\我的文档\20140505 C#串口测试程序 王绍丹\C#2010串口测试程序20140505\SCI\bin\Debug\SerialPort.exe.config
+F:\实验室学习\我的文档\20140505 C#串口测试程序 王绍丹\C#2010串口测试程序20140505\SCI\obj\Debug\SerialPort.exe
+F:\实验室学习\我的文档\20140505 C#串口测试程序 王绍丹\C#2010串口测试程序20140505\SCI\obj\Debug\SerialPort.pdb
+F:\实验室学习\我的文档\20140505 C#串口测试程序 王绍丹\C#2010串口测试程序20140505\SCI\bin\Debug\SerialPort.exe
+F:\实验室学习\我的文档\20140505 C#串口测试程序 王绍丹\C#2010串口测试程序20140505\SCI\bin\Debug\SerialPort.pdb
+F:\实验室学习\我的文档\20140505 C#串口测试程序 王绍丹\C#2010串口测试程序20140505\SCI\obj\Debug\ResolveAssemblyReference.cache
+F:\实验室学习\我的文档\20140505 C#串口测试程序 王绍丹\C#2010串口测试程序20140505\SCI\obj\Debug\SerialPort.FrmSCI.resources
+F:\实验室学习\我的文档\20140505 C#串口测试程序 王绍丹\C#2010串口测试程序20140505\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+F:\实验室学习\我的文档\20140505 C#串口测试程序 王绍丹\C#2010串口测试程序20140505\SCI\obj\Debug\GenerateResource.read.1.tlog
+F:\实验室学习\我的文档\20140505 C#串口测试程序 王绍丹\C#2010串口测试程序20140505\SCI\obj\Debug\GenerateResource.write.1.tlog
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.3)20140505\KL25-Program\ch06-UART\C#2010串口测试程序20140505\SCI\bin\Debug\SerialPort.exe.config
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.3)20140505\KL25-Program\ch06-UART\C#2010串口测试程序20140505\SCI\obj\Debug\SerialPort.exe
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.3)20140505\KL25-Program\ch06-UART\C#2010串口测试程序20140505\SCI\obj\Debug\SerialPort.pdb
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.3)20140505\KL25-Program\ch06-UART\C#2010串口测试程序20140505\SCI\bin\Debug\SerialPort.exe
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.3)20140505\KL25-Program\ch06-UART\C#2010串口测试程序20140505\SCI\bin\Debug\SerialPort.pdb
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.3)20140505\KL25-Program\ch06-UART\C#2010串口测试程序20140505\SCI\obj\Debug\ResolveAssemblyReference.cache
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.3)20140505\KL25-Program\ch06-UART\C#2010串口测试程序20140505\SCI\obj\Debug\SerialPort.FrmSCI.resources
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.3)20140505\KL25-Program\ch06-UART\C#2010串口测试程序20140505\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.3)20140505\KL25-Program\ch06-UART\C#2010串口测试程序20140505\SCI\obj\Debug\GenerateResource.read.1.tlog
+E:\BOOK\2012-2014 KL25(20130215)\06-KL25CD\SD-FSL-KL25-CD(V2.3)20140505\KL25-Program\ch06-UART\C#2010串口测试程序20140505\SCI\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\YF\Desktop\C#2010串口测试程序20140505\SCI\bin\Debug\SerialPort.exe.config
+C:\Users\YF\Desktop\C#2010串口测试程序20140505\SCI\obj\Debug\SerialPort.exe
+C:\Users\YF\Desktop\C#2010串口测试程序20140505\SCI\obj\Debug\SerialPort.pdb
+C:\Users\YF\Desktop\C#2010串口测试程序20140505\SCI\bin\Debug\SerialPort.exe
+C:\Users\YF\Desktop\C#2010串口测试程序20140505\SCI\bin\Debug\SerialPort.pdb
+C:\Users\YF\Desktop\C#2010串口测试程序20140505\SCI\obj\Debug\SCI.csprojResolveAssemblyReference.cache
+C:\Users\YF\Desktop\C#2010串口测试程序20140505\SCI\obj\Debug\SerialPort.FrmSCI.resources
+C:\Users\YF\Desktop\C#2010串口测试程序20140505\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+C:\Users\YF\Desktop\C#2010串口测试程序20140505\SCI\obj\Debug\SCI.csproj.GenerateResource.Cache
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140505\SCI\bin\Debug\SerialPort.exe.config
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140505\SCI\obj\Debug\SerialPort.exe
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140505\SCI\obj\Debug\SerialPort.pdb
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140505\SCI\bin\Debug\SerialPort.exe
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140505\SCI\bin\Debug\SerialPort.pdb
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140505\SCI\obj\Debug\SCI.csprojResolveAssemblyReference.cache
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140505\SCI\obj\Debug\SerialPort.FrmSCI.resources
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140505\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140505\SCI\obj\Debug\SCI.csproj.GenerateResource.Cache
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140530\SCI\bin\Debug\SerialPort.exe.config
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140530\SCI\obj\Debug\SerialPort.exe
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140530\SCI\obj\Debug\SerialPort.pdb
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140601\SCI\bin\Debug\SerialPort.exe.config
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140601\SCI\obj\Debug\SerialPort.exe
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140601\SCI\obj\Debug\SerialPort.pdb
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140601\SCI\bin\Debug\SerialPort.exe
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140601\SCI\bin\Debug\SerialPort.pdb
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140601\SCI\obj\Debug\SCI.csprojResolveAssemblyReference.cache
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140601\SCI\obj\Debug\SerialPort.FrmSCI.resources
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140601\SCI\obj\Debug\SerialPort.Properties.Resources.resources
+C:\Users\YF\Desktop\C#模版以及程序\C#2010串口测试程序20140601\SCI\obj\Debug\SCI.csproj.GenerateResource.Cache
+F:\masterA\2012-2015\YF\WSCN-UPCT-I-20140621\04-software\PC方\C#2010学习-20140622\08-C#2010串口测试程序20140601\bin\Debug\SerialPort.exe.config
+F:\masterA\2012-2015\YF\WSCN-UPCT-I-20140621\04-software\PC方\C#2010学习-20140622\08-C#2010串口测试程序20140601\obj\Debug\SerialPort.exe
+F:\masterA\2012-2015\YF\WSCN-UPCT-I-20140621\04-software\PC方\C#2010学习-20140622\08-C#2010串口测试程序20140601\obj\Debug\SerialPort.pdb
+F:\masterA\2012-2015\YF\WSCN-UPCT-I-20140621\04-software\PC方\C#2010学习-20140622\08-C#2010串口测试程序20140601\bin\Debug\SerialPort.exe
+F:\masterA\2012-2015\YF\WSCN-UPCT-I-20140621\04-software\PC方\C#2010学习-20140622\08-C#2010串口测试程序20140601\bin\Debug\SerialPort.pdb
+F:\masterA\2012-2015\YF\WSCN-UPCT-I-20140621\04-software\PC方\C#2010学习-20140622\08-C#2010串口测试程序20140601\obj\Debug\ResolveAssemblyReference.cache
+F:\masterA\2012-2015\YF\WSCN-UPCT-I-20140621\04-software\PC方\C#2010学习-20140622\08-C#2010串口测试程序20140601\obj\Debug\SerialPort.FrmSCI.resources
+F:\masterA\2012-2015\YF\WSCN-UPCT-I-20140621\04-software\PC方\C#2010学习-20140622\08-C#2010串口测试程序20140601\obj\Debug\SerialPort.Properties.Resources.resources
+F:\masterA\2012-2015\YF\WSCN-UPCT-I-20140621\04-software\PC方\C#2010学习-20140622\08-C#2010串口测试程序20140601\obj\Debug\GenerateResource.read.1.tlog
+F:\masterA\2012-2015\YF\WSCN-UPCT-I-20140621\04-software\PC方\C#2010学习-20140622\08-C#2010串口测试程序20140601\obj\Debug\GenerateResource.write.1.tlog
+H:\C#2010学习-20140623\08-C#2010串口测试程序20140601\bin\Debug\SerialPort.exe.config
+H:\C#2010学习-20140623\08-C#2010串口测试程序20140601\obj\Debug\SerialPort.exe
+H:\C#2010学习-20140623\08-C#2010串口测试程序20140601\obj\Debug\SerialPort.pdb
+F:\2005-2014 study notes\Study Notes\C#2010学习-20140630\08-C#2010串口测试程序20140601\bin\Debug\SerialPort.exe.config
+F:\2005-2014 study notes\Study Notes\C#2010学习-20140630\08-C#2010串口测试程序20140601\obj\Debug\SerialPort.exe
+F:\2005-2014 study notes\Study Notes\C#2010学习-20140630\08-C#2010串口测试程序20140601\obj\Debug\SerialPort.pdb
+F:\2005-2014 study notes\Study Notes\C#2010学习-20140630\08-C#2010串口测试程序20140601\bin\Debug\SerialPort.exe
+F:\2005-2014 study notes\Study Notes\C#2010学习-20140630\08-C#2010串口测试程序20140601\bin\Debug\SerialPort.pdb
+F:\2005-2014 study notes\Study Notes\C#2010学习-20140630\08-C#2010串口测试程序20140601\obj\Debug\ResolveAssemblyReference.cache
+F:\2005-2014 study notes\Study Notes\C#2010学习-20140630\08-C#2010串口测试程序20140601\obj\Debug\SerialPort.FrmSCI.resources
+F:\2005-2014 study notes\Study Notes\C#2010学习-20140630\08-C#2010串口测试程序20140601\obj\Debug\SerialPort.Properties.Resources.resources
+F:\2005-2014 study notes\Study Notes\C#2010学习-20140630\08-C#2010串口测试程序20140601\obj\Debug\GenerateResource.read.1.tlog
+F:\2005-2014 study notes\Study Notes\C#2010学习-20140630\08-C#2010串口测试程序20140601\obj\Debug\GenerateResource.write.1.tlog
+F:\2005-2014 study notes\Study Notes\C#2010学习-20141005\08-C#2010串口测试程序20140601\bin\Debug\SerialPort.exe.config
+F:\2005-2014 study notes\Study Notes\C#2010学习-20141005\08-C#2010串口测试程序20140601\obj\Debug\SerialPort.exe
+F:\2005-2014 study notes\Study Notes\C#2010学习-20141005\08-C#2010串口测试程序20140601\obj\Debug\SerialPort.pdb
+F:\2005-2014 study notes\Study Notes\C#2010学习-20141005\08-C#2010串口测试程序20140601\bin\Debug\SerialPort.exe
+F:\2005-2014 study notes\Study Notes\C#2010学习-20141005\08-C#2010串口测试程序20140601\bin\Debug\SerialPort.pdb
+F:\2005-2014 study notes\Study Notes\C#2010学习-20141005\08-C#2010串口测试程序20140601\obj\Debug\ResolveAssemblyReference.cache
+F:\2005-2014 study notes\Study Notes\C#2010学习-20141005\08-C#2010串口测试程序20140601\obj\Debug\SerialPort.FrmSCI.resources
+F:\2005-2014 study notes\Study Notes\C#2010学习-20141005\08-C#2010串口测试程序20140601\obj\Debug\SerialPort.Properties.Resources.resources
+F:\2005-2014 study notes\Study Notes\C#2010学习-20141005\08-C#2010串口测试程序20140601\obj\Debug\GenerateResource.read.1.tlog
+F:\2005-2014 study notes\Study Notes\C#2010学习-20141005\08-C#2010串口测试程序20140601\obj\Debug\GenerateResource.write.1.tlog
+E:\BOOK\2012-2014 KL25\06-KL25CD\SD-FSL-KL25-CD(V3.6)KDS-20141110\KL25-Program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\bin\Debug\SerialPort.exe.config
+E:\BOOK\2012-2014 KL25\06-KL25CD\SD-FSL-KL25-CD(V3.6)KDS-20141110\KL25-Program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\obj\Debug\SerialPort.exe
+E:\BOOK\2012-2014 KL25\06-KL25CD\SD-FSL-KL25-CD(V3.6)KDS-20141110\KL25-Program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\obj\Debug\SerialPort.pdb
+E:\BOOK\2012-2014 KL25\06-KL25CD\SD-FSL-KL25-CD(V3.6)KDS-20141110\KL25-Program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\bin\Debug\SerialPort.exe
+E:\BOOK\2012-2014 KL25\06-KL25CD\SD-FSL-KL25-CD(V3.6)KDS-20141110\KL25-Program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\bin\Debug\SerialPort.pdb
+E:\BOOK\2012-2014 KL25\06-KL25CD\SD-FSL-KL25-CD(V3.6)KDS-20141110\KL25-Program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\obj\Debug\ResolveAssemblyReference.cache
+E:\BOOK\2012-2014 KL25\06-KL25CD\SD-FSL-KL25-CD(V3.6)KDS-20141110\KL25-Program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\obj\Debug\SerialPort.FrmSCI.resources
+E:\BOOK\2012-2014 KL25\06-KL25CD\SD-FSL-KL25-CD(V3.6)KDS-20141110\KL25-Program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\obj\Debug\SerialPort.Properties.Resources.resources
+E:\BOOK\2012-2014 KL25\06-KL25CD\SD-FSL-KL25-CD(V3.6)KDS-20141110\KL25-Program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\obj\Debug\GenerateResource.read.1.tlog
+E:\BOOK\2012-2014 KL25\06-KL25CD\SD-FSL-KL25-CD(V3.6)KDS-20141110\KL25-Program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\obj\Debug\GenerateResource.write.1.tlog
+E:\BOOK\2012-2015 KL25&26\06-User\SD-FSL-KL25-CD(V3.9)KDS-20150129\02-Software\program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\bin\Debug\SerialPort.exe.config
+E:\BOOK\2012-2015 KL25&26\06-User\SD-FSL-KL25-CD(V3.9)KDS-20150129\02-Software\program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\obj\Debug\SerialPort.exe
+E:\BOOK\2012-2015 KL25&26\06-User\SD-FSL-KL25-CD(V3.9)KDS-20150129\02-Software\program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\obj\Debug\SerialPort.pdb
+E:\BOOK\2012-2015 KL25&26\06-User\SD-FSL-KL25-CD(V3.9)KDS-20150129\02-Software\program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\bin\Debug\SerialPort.exe
+E:\BOOK\2012-2015 KL25&26\06-User\SD-FSL-KL25-CD(V3.9)KDS-20150129\02-Software\program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\bin\Debug\SerialPort.pdb
+E:\BOOK\2012-2015 KL25&26\06-User\SD-FSL-KL25-CD(V3.9)KDS-20150129\02-Software\program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\obj\Debug\SCI.csprojResolveAssemblyReference.cache
+E:\BOOK\2012-2015 KL25&26\06-User\SD-FSL-KL25-CD(V3.9)KDS-20150129\02-Software\program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\obj\Debug\SerialPort.FrmSCI.resources
+E:\BOOK\2012-2015 KL25&26\06-User\SD-FSL-KL25-CD(V3.9)KDS-20150129\02-Software\program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\obj\Debug\SerialPort.Properties.Resources.resources
+E:\BOOK\2012-2015 KL25&26\06-User\SD-FSL-KL25-CD(V3.9)KDS-20150129\02-Software\program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\obj\Debug\SCI.csproj.GenerateResource.Cache
+E:\BOOK\2012-2015 KL25&26\06-User\SD-FSL-KL25-CD(V4.0)KDS-20151012\02-Software\program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\bin\Debug\SerialPort.exe.config
+E:\BOOK\2012-2015 KL25&26\06-User\SD-FSL-KL25-CD(V4.0)KDS-20151012\02-Software\program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\obj\Debug\SerialPort.exe
+E:\BOOK\2012-2015 KL25&26\06-User\SD-FSL-KL25-CD(V4.0)KDS-20151012\02-Software\program\ch06-KL25-UART(KDS)\C#2010串口测试程序20140601\obj\Debug\SerialPort.pdb
+D:\suda\KL25_BOOK\program\ch06-UART-20160414\C#2010串口测试程序20160418\bin\Debug\SerialPort.exe.config
+D:\suda\KL25_BOOK\program\ch06-UART-20160414\C#2010串口测试程序20160418\obj\Debug\SerialPort.exe
+D:\suda\KL25_BOOK\program\ch06-UART-20160414\C#2010串口测试程序20160418\obj\Debug\SerialPort.pdb
+D:\suda\KL25_BOOK\program\ch06-UART-20160414\C#2010串口测试程序20160418\bin\Debug\SerialPort.exe
+D:\suda\KL25_BOOK\program\ch06-UART-20160414\C#2010串口测试程序20160418\bin\Debug\SerialPort.pdb
+D:\suda\KL25_BOOK\program\ch06-UART-20160414\C#2010串口测试程序20160418\obj\Debug\SCI.csprojResolveAssemblyReference.cache
+D:\suda\KL25_BOOK\program\ch06-UART-20160414\C#2010串口测试程序20160418\obj\Debug\SerialPort.FrmSCI.resources
+D:\suda\KL25_BOOK\program\ch06-UART-20160414\C#2010串口测试程序20160418\obj\Debug\SerialPort.Properties.Resources.resources
+D:\suda\KL25_BOOK\program\ch06-UART-20160414\C#2010串口测试程序20160418\obj\Debug\SCI.csproj.GenerateResource.Cache
+D:\suda\KL25_BOOK\program\ch06-UART-20160414\C#2010串口测试程序20160426\bin\Debug\SerialPort.exe.config
+D:\suda\KL25_BOOK\program\ch06-UART-20160414\C#2010串口测试程序20160426\obj\Debug\SerialPort.exe
+D:\suda\KL25_BOOK\program\ch06-UART-20160414\C#2010串口测试程序20160426\obj\Debug\SerialPort.pdb
+D:\suda\KL25_BOOK\program\ch06-UART-20160414\C#2010串口测试程序20160426\bin\Debug\SerialPort.exe
+D:\suda\KL25_BOOK\program\ch06-UART-20160414\C#2010串口测试程序20160426\bin\Debug\SerialPort.pdb
+D:\suda\KL25_BOOK\program\ch06-UART-20160414\C#2010串口测试程序20160426\obj\Debug\SCI.csprojResolveAssemblyReference.cache
+D:\suda\KL25_BOOK\program\ch06-UART-20160414\C#2010串口测试程序20160426\obj\Debug\SerialPort.FrmSCI.resources
+D:\suda\KL25_BOOK\program\ch06-UART-20160414\C#2010串口测试程序20160426\obj\Debug\SerialPort.Properties.Resources.resources
+D:\suda\KL25_BOOK\program\ch06-UART-20160414\C#2010串口测试程序20160426\obj\Debug\SCI.csproj.GenerateResource.Cache
+E:\work-1607\2012-2016 M0+-160720\06-User\SD-KL-CD(V2.01)-160616\02-Software\KL25-program-160611\ch06-UART-160506\C#2010串口测试程序\bin\Debug\SerialPort.exe.config
+E:\work-1607\2012-2016 M0+-160720\06-User\SD-KL-CD(V2.01)-160616\02-Software\KL25-program-160611\ch06-UART-160506\C#2010串口测试程序\obj\Debug\SerialPort.exe
+E:\work-1607\2012-2016 M0+-160720\06-User\SD-KL-CD(V2.01)-160616\02-Software\KL25-program-160611\ch06-UART-160506\C#2010串口测试程序\obj\Debug\SerialPort.pdb
+E:\2013-2017 BOOK-170523\2012-2016 M0+-170523\06-User\SD-(M0+)-CD(V2.6)-170401\02-Software\KL25-program-160611\ch06-UART-160506\C#2010串口测试程序\bin\Debug\SerialPort.exe.config
+E:\2013-2017 BOOK-170523\2012-2016 M0+-170523\06-User\SD-(M0+)-CD(V2.6)-170401\02-Software\KL25-program-160611\ch06-UART-160506\C#2010串口测试程序\obj\Debug\SerialPort.exe
+E:\2013-2017 BOOK-170523\2012-2016 M0+-170523\06-User\SD-(M0+)-CD(V2.6)-170401\02-Software\KL25-program-160611\ch06-UART-160506\C#2010串口测试程序\obj\Debug\SerialPort.pdb
+E:\2013-2017 BOOK-170523\2012-2016 M0+-170523\06-User\SD-(M0+)-CD(V2.6)-170401\02-Software\KL25-program-160611\ch06-UART-160506\C#2010串口测试程序\bin\Debug\SerialPort.exe
+E:\2013-2017 BOOK-170523\2012-2016 M0+-170523\06-User\SD-(M0+)-CD(V2.6)-170401\02-Software\KL25-program-160611\ch06-UART-160506\C#2010串口测试程序\bin\Debug\SerialPort.pdb
+E:\2013-2017 BOOK-170523\2012-2016 M0+-170523\06-User\SD-(M0+)-CD(V2.6)-170401\02-Software\KL25-program-160611\ch06-UART-160506\C#2010串口测试程序\obj\Debug\SCI.csprojResolveAssemblyReference.cache
+E:\2013-2017 BOOK-170523\2012-2016 M0+-170523\06-User\SD-(M0+)-CD(V2.6)-170401\02-Software\KL25-program-160611\ch06-UART-160506\C#2010串口测试程序\obj\Debug\SerialPort.FrmSCI.resources
+E:\2013-2017 BOOK-170523\2012-2016 M0+-170523\06-User\SD-(M0+)-CD(V2.6)-170401\02-Software\KL25-program-160611\ch06-UART-160506\C#2010串口测试程序\obj\Debug\SerialPort.Properties.Resources.resources
+E:\2013-2017 BOOK-170523\2012-2016 M0+-170523\06-User\SD-(M0+)-CD(V2.6)-170401\02-Software\KL25-program-160611\ch06-UART-160506\C#2010串口测试程序\obj\Debug\SCI.csproj.GenerateResource.Cache
+E:\2013-2017 BOOK-170523\2012-2016 M0+-171029\06-User\SD-(M0+)-CD(V2.7)-170930\02-Software\KL25-program\ch06-UART-160506\C#2010串口测试程序\bin\Debug\SerialPort.exe.config
+E:\2013-2017 BOOK-170523\2012-2016 M0+-171029\06-User\SD-(M0+)-CD(V2.7)-170930\02-Software\KL25-program\ch06-UART-160506\C#2010串口测试程序\obj\Debug\SerialPort.exe
+E:\2013-2017 BOOK-170523\2012-2016 M0+-171029\06-User\SD-(M0+)-CD(V2.7)-170930\02-Software\KL25-program\ch06-UART-160506\C#2010串口测试程序\obj\Debug\SerialPort.pdb
+E:\2013-2017 BOOK-170523\2012-2016 M0+-171029\06-User\SD-(M0+)-CD(V2.7)-170930\02-Software\KL25-program\ch06-UART-160506\C#2010串口测试程序\bin\Debug\SerialPort.exe
+E:\2013-2017 BOOK-170523\2012-2016 M0+-171029\06-User\SD-(M0+)-CD(V2.7)-170930\02-Software\KL25-program\ch06-UART-160506\C#2010串口测试程序\bin\Debug\SerialPort.pdb
+E:\2013-2017 BOOK-170523\2012-2016 M0+-171029\06-User\SD-(M0+)-CD(V2.7)-170930\02-Software\KL25-program\ch06-UART-160506\C#2010串口测试程序\obj\Debug\SCI.csprojResolveAssemblyReference.cache
+E:\2013-2017 BOOK-170523\2012-2016 M0+-171029\06-User\SD-(M0+)-CD(V2.7)-170930\02-Software\KL25-program\ch06-UART-160506\C#2010串口测试程序\obj\Debug\SerialPort.FrmSCI.resources
+E:\2013-2017 BOOK-170523\2012-2016 M0+-171029\06-User\SD-(M0+)-CD(V2.7)-170930\02-Software\KL25-program\ch06-UART-160506\C#2010串口测试程序\obj\Debug\SerialPort.Properties.Resources.resources
+E:\2013-2017 BOOK-170523\2012-2016 M0+-171029\06-User\SD-(M0+)-CD(V2.7)-170930\02-Software\KL25-program\ch06-UART-160506\C#2010串口测试程序\obj\Debug\SCI.csproj.GenerateResource.Cache
+C:\Users\lyh\Desktop\C#2010串口测试程序\bin\Debug\SerialPort.exe.config
+C:\Users\lyh\Desktop\C#2010串口测试程序\obj\Debug\SerialPort.exe
+C:\Users\lyh\Desktop\C#2010串口测试程序\obj\Debug\SerialPort.pdb
+C:\Users\lyh\Desktop\C#2010串口测试程序\bin\Debug\SerialPort.exe
+C:\Users\lyh\Desktop\C#2010串口测试程序\bin\Debug\SerialPort.pdb
+C:\Users\lyh\Desktop\C#2010串口测试程序\obj\Debug\SCI.csprojResolveAssemblyReference.cache
+C:\Users\lyh\Desktop\C#2010串口测试程序\obj\Debug\SerialPort.FrmSCI.resources
+C:\Users\lyh\Desktop\C#2010串口测试程序\obj\Debug\SerialPort.Properties.Resources.resources
+C:\Users\lyh\Desktop\C#2010串口测试程序\obj\Debug\SCI.csproj.GenerateResource.Cache
+F:\WorkSpace\AHL-GEC-EXP\Temp\C#2010串口测试程序\bin\Debug\SerialPort.exe.config
+F:\WorkSpace\AHL-GEC-EXP\Temp\C#2010串口测试程序\bin\Debug\SerialPort.exe
+F:\WorkSpace\AHL-GEC-EXP\Temp\C#2010串口测试程序\bin\Debug\SerialPort.pdb
+F:\WorkSpace\AHL-GEC-EXP\Temp\C#2010串口测试程序\obj\Debug\SCI.csprojAssemblyReference.cache
+F:\WorkSpace\AHL-GEC-EXP\Temp\C#2010串口测试程序\obj\Debug\SerialPort.FrmSCI.resources
+F:\WorkSpace\AHL-GEC-EXP\Temp\C#2010串口测试程序\obj\Debug\SerialPort.Properties.Resources.resources
+F:\WorkSpace\AHL-GEC-EXP\Temp\C#2010串口测试程序\obj\Debug\SCI.csproj.GenerateResource.cache
+F:\WorkSpace\AHL-GEC-EXP\Temp\C#2010串口测试程序\obj\Debug\SCI.csproj.CoreCompileInputs.cache
+F:\WorkSpace\AHL-GEC-EXP\Temp\C#2010串口测试程序\obj\Debug\SerialPort.exe
+F:\WorkSpace\AHL-GEC-EXP\Temp\C#2010串口测试程序\obj\Debug\SerialPort.pdb
+F:\WorkSpace\AHL-GEC-EXP\Temp\C#四个按钮控制三色灯\bin\Debug\SerialPort.exe.config
+F:\WorkSpace\AHL-GEC-EXP\Temp\C#四个按钮控制三色灯\bin\Debug\SerialPort.exe
+F:\WorkSpace\AHL-GEC-EXP\Temp\C#四个按钮控制三色灯\bin\Debug\SerialPort.pdb
+F:\WorkSpace\AHL-GEC-EXP\Temp\C#四个按钮控制三色灯\obj\Debug\SCI.csprojAssemblyReference.cache
+F:\WorkSpace\AHL-GEC-EXP\Temp\C#四个按钮控制三色灯\obj\Debug\SerialPort.FrmSCI.resources
+F:\WorkSpace\AHL-GEC-EXP\Temp\C#四个按钮控制三色灯\obj\Debug\SerialPort.Properties.Resources.resources
+F:\WorkSpace\AHL-GEC-EXP\Temp\C#四个按钮控制三色灯\obj\Debug\SCI.csproj.GenerateResource.cache
+F:\WorkSpace\AHL-GEC-EXP\Temp\C#四个按钮控制三色灯\obj\Debug\SCI.csproj.CoreCompileInputs.cache
+F:\WorkSpace\AHL-GEC-EXP\Temp\C#四个按钮控制三色灯\obj\Debug\SerialPort.exe
+F:\WorkSpace\AHL-GEC-EXP\Temp\C#四个按钮控制三色灯\obj\Debug\SerialPort.pdb

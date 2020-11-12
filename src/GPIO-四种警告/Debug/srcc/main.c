@@ -52,19 +52,15 @@ int main(void)
         {
         case 0:
             light_flash(LIGHT_RED, 0);
-            printf("case 0");
             break;
         case 1:
             light_flash(LIGHT_RED, 1000000);
-            printf("case 1");
             break;
         case 2:
             light_flash(LIGHT_RED, 5000000);
-            printf("case 2");
             break;
         case 3:
             light_flash(LIGHT_RED, 10000000);
-            printf("case 3");
             break;
         default:
             light_flash(LIGHT_RED, 0);

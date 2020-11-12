@@ -790,7 +790,7 @@ LOAD d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/
  .FlashConfig   0x00006c00       0x10 ./obj/startup_MKL36Z4.o
                 0x00006c10                . = ALIGN (0x4)
 
-.text           0x00006c10     0x248c
+.text           0x00006c10     0x2444
                 0x00006c10                . = ALIGN (0x4)
  *(.text)
  .text          0x00006c10       0x48 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
@@ -896,172 +896,172 @@ LOAD d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/
                 0x000081c8       0x12 ./obj/main.o
                 0x000081c8                light_flash
  *fill*         0x000081da        0x2 
- .text.main     0x000081dc      0x114 ./obj/main.o
+ .text.main     0x000081dc       0xec ./obj/main.o
                 0x000081dc                main
  .text.flash_read_physical
-                0x000082f0        0x8 ./obj/flash.o
-                0x000082f0                flash_read_physical
+                0x000082c8        0x8 ./obj/flash.o
+                0x000082c8                flash_read_physical
  .text.flash_isempty
-                0x000082f8       0x1e ./obj/flash.o
-                0x000082f8                flash_isempty
- *fill*         0x00008316        0x2 
+                0x000082d0       0x1e ./obj/flash.o
+                0x000082d0                flash_isempty
+ *fill*         0x000082ee        0x2 
  .text.flash_cmd_launch
-                0x00008318       0x44 ./obj/flash.o
-                0x00008318                flash_cmd_launch
+                0x000082f0       0x44 ./obj/flash.o
+                0x000082f0                flash_cmd_launch
  .text.flash_erase
-                0x0000835c       0x68 ./obj/flash.o
-                0x0000835c                flash_erase
+                0x00008334       0x68 ./obj/flash.o
+                0x00008334                flash_erase
  .text.flash_write_physical
-                0x000083c4       0x54 ./obj/flash.o
-                0x000083c4                flash_write_physical
+                0x0000839c       0x54 ./obj/flash.o
+                0x0000839c                flash_write_physical
  .text.gpio_get_port_pin
-                0x00008418        0x8 ./obj/gpio.o
-                0x00008418                gpio_get_port_pin
+                0x000083f0        0x8 ./obj/gpio.o
+                0x000083f0                gpio_get_port_pin
  .text.gpio_set
-                0x00008420       0x44 ./obj/gpio.o
-                0x00008420                gpio_set
+                0x000083f8       0x44 ./obj/gpio.o
+                0x000083f8                gpio_set
  .text.gpio_init
-                0x00008464       0x78 ./obj/gpio.o
-                0x00008464                gpio_init
+                0x0000843c       0x78 ./obj/gpio.o
+                0x0000843c                gpio_init
  .text.gpio_get
-                0x000084dc       0x30 ./obj/gpio.o
-                0x000084dc                gpio_get
+                0x000084b4       0x30 ./obj/gpio.o
+                0x000084b4                gpio_get
  .text.gpio_reverse
-                0x0000850c       0x30 ./obj/gpio.o
-                0x0000850c                gpio_reverse
+                0x000084e4       0x30 ./obj/gpio.o
+                0x000084e4                gpio_reverse
  .text.gpio_pull
-                0x0000853c       0x64 ./obj/gpio.o
-                0x0000853c                gpio_pull
+                0x00008514       0x64 ./obj/gpio.o
+                0x00008514                gpio_pull
  .text.wdog_stop
-                0x000085a0       0x14 ./obj/wdog.o
-                0x000085a0                wdog_stop
+                0x00008578       0x14 ./obj/wdog.o
+                0x00008578                wdog_stop
  .text.Vectors_Init
-                0x000085b4       0x8c ./obj/gec.o
-                0x000085b4                Vectors_Init
+                0x0000858c       0x8c ./obj/gec.o
+                0x0000858c                Vectors_Init
  .text.uart_is_uartNo
-                0x00008640        0xc ./obj/uart.o
-                0x00008640                uart_is_uartNo
+                0x00008618        0xc ./obj/uart.o
+                0x00008618                uart_is_uartNo
  .text.uart_send1
-                0x0000864c       0x5c ./obj/uart.o
-                0x0000864c                uart_send1
+                0x00008624       0x5c ./obj/uart.o
+                0x00008624                uart_send1
  .text.printk_putc
-                0x000086a8       0x2a ./obj/printf.o
+                0x00008680       0x2a ./obj/printf.o
  .text.printk_mknumstr
-                0x000086d2       0x84 ./obj/printf.o
+                0x000086aa       0x84 ./obj/printf.o
  .text.printk_pad_zero
-                0x00008756       0x1e ./obj/printf.o
+                0x0000872e       0x1e ./obj/printf.o
  .text.printk_pad_space
-                0x00008774       0x1e ./obj/printf.o
+                0x0000874c       0x1e ./obj/printf.o
  .text.out_char
-                0x00008792        0xc ./obj/printf.o
-                0x00008792                out_char
- *fill*         0x0000879e        0x2 
+                0x0000876a        0xc ./obj/printf.o
+                0x0000876a                out_char
+ *fill*         0x00008776        0x2 
  .text.printk_mkfloatstr
-                0x000087a0      0x188 ./obj/printf.o
-                0x000087a0                printk_mkfloatstr
- .text.printk   0x00008928      0x560 ./obj/printf.o
-                0x00008928                printk
+                0x00008778      0x188 ./obj/printf.o
+                0x00008778                printk_mkfloatstr
+ .text.printk   0x00008900      0x560 ./obj/printf.o
+                0x00008900                printk
  .text.myprintf
-                0x00008e88       0x24 ./obj/printf.o
-                0x00008e88                myprintf
- .text.memcpy   0x00008eac       0x12 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memcpy-stub.o)
-                0x00008eac                memcpy
- .text.memset   0x00008ebe       0x10 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memset.o)
-                0x00008ebe                memset
+                0x00008e60       0x24 ./obj/printf.o
+                0x00008e60                myprintf
+ .text.memcpy   0x00008e84       0x12 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memcpy-stub.o)
+                0x00008e84                memcpy
+ .text.memset   0x00008e96       0x10 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memset.o)
+                0x00008e96                memset
  *(.rodata)
- *fill*         0x00008ece        0x2 
- .rodata        0x00008ed0       0x40 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m\libgcc.a(muldf3.o)
+ *fill*         0x00008ea6        0x2 
+ .rodata        0x00008ea8       0x40 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m\libgcc.a(muldf3.o)
  *(.rodata*)
  .rodata.main.str1.4
-                0x00008f10       0x34 ./obj/main.o
+                0x00008ee8       0x14 ./obj/main.o
  .rodata.GPIO_ARR
-                0x00008f44       0x14 ./obj/gpio.o
-                0x00008f44                GPIO_ARR
+                0x00008efc       0x14 ./obj/gpio.o
+                0x00008efc                GPIO_ARR
  .rodata.PORT_ARR
-                0x00008f58       0x14 ./obj/gpio.o
-                0x00008f58                PORT_ARR
+                0x00008f10       0x14 ./obj/gpio.o
+                0x00008f10                PORT_ARR
  .rodata.Vectors_Init.str1.4
-                0x00008f6c       0x48 ./obj/gec.o
+                0x00008f24       0x48 ./obj/gec.o
  .rodata.UART_ARR
-                0x00008fb4        0x8 ./obj/uart.o
-                0x00008fb4                UART_ARR
+                0x00008f6c        0x8 ./obj/uart.o
+                0x00008f6c                UART_ARR
  .rodata.printk
-                0x00008fbc       0xc8 ./obj/printf.o
+                0x00008f74       0xc8 ./obj/printf.o
  *(.glue_7)
- .glue_7        0x00009084        0x0 linker stubs
+ .glue_7        0x0000903c        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x00009084        0x0 linker stubs
+ .glue_7t       0x0000903c        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x00009084        0x0 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
+ .eh_frame      0x0000903c        0x0 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
  *(.init)
- .init          0x00009084        0x4 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crti.o
-                0x00009084                _init
- .init          0x00009088        0x8 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtn.o
+ .init          0x0000903c        0x4 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crti.o
+                0x0000903c                _init
+ .init          0x00009040        0x8 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtn.o
  *(.fini)
- .fini          0x00009090        0x4 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crti.o
-                0x00009090                _fini
- .fini          0x00009094        0x8 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtn.o
-                0x0000909c                . = ALIGN (0x4)
+ .fini          0x00009048        0x4 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crti.o
+                0x00009048                _fini
+ .fini          0x0000904c        0x8 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtn.o
+                0x00009054                . = ALIGN (0x4)
 
-.vfp11_veneer   0x0000909c        0x0
- .vfp11_veneer  0x0000909c        0x0 linker stubs
+.vfp11_veneer   0x00009054        0x0
+ .vfp11_veneer  0x00009054        0x0 linker stubs
 
-.v4_bx          0x0000909c        0x0
- .v4_bx         0x0000909c        0x0 linker stubs
+.v4_bx          0x00009054        0x0
+ .v4_bx         0x00009054        0x0 linker stubs
 
-.iplt           0x0000909c        0x0
- .iplt          0x0000909c        0x0 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
+.iplt           0x00009054        0x0
+ .iplt          0x00009054        0x0 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x0000909c        0x8
-                0x0000909c                __exidx_start = .
+.ARM            0x00009054        0x8
+                0x00009054                __exidx_start = .
  *(.ARM.exidx*)
- .ARM.exidx     0x0000909c        0x8 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m\libgcc.a(_udivmoddi4.o)
-                0x000090a4                __exidx_end = .
+ .ARM.exidx     0x00009054        0x8 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m\libgcc.a(_udivmoddi4.o)
+                0x0000905c                __exidx_end = .
 
-.rel.dyn        0x000090a4        0x0
- .rel.iplt      0x000090a4        0x0 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
+.rel.dyn        0x0000905c        0x0
+ .rel.iplt      0x0000905c        0x0 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
 
-.ctors          0x000090a4        0x0
-                0x000090a4                __CTOR_LIST__ = .
+.ctors          0x0000905c        0x0
+                0x0000905c                __CTOR_LIST__ = .
  *crtbegin.o(.ctors)
  *crtbegin?.o(.ctors)
  *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
  *(SORT_BY_NAME(.ctors.*))
  *(.ctors)
-                0x000090a4                __CTOR_END__ = .
+                0x0000905c                __CTOR_END__ = .
 
-.dtors          0x000090a4        0x0
-                0x000090a4                __DTOR_LIST__ = .
+.dtors          0x0000905c        0x0
+                0x0000905c                __DTOR_LIST__ = .
  *crtbegin.o(.dtors)
  *crtbegin?.o(.dtors)
  *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
  *(SORT_BY_NAME(.dtors.*))
  *(.dtors)
-                0x000090a4                __DTOR_END__ = .
+                0x0000905c                __DTOR_END__ = .
 
-.preinit_array  0x000090a4        0x0
-                0x000090a4                PROVIDE (__preinit_array_start, .)
+.preinit_array  0x0000905c        0x0
+                0x0000905c                PROVIDE (__preinit_array_start, .)
  *(.preinit_array*)
-                0x000090a4                PROVIDE (__preinit_array_end, .)
+                0x0000905c                PROVIDE (__preinit_array_end, .)
 
-.init_array     0x000090a4        0x4
-                0x000090a4                PROVIDE (__init_array_start, .)
+.init_array     0x0000905c        0x4
+                0x0000905c                PROVIDE (__init_array_start, .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x000090a4        0x4 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
-                0x000090a8                PROVIDE (__init_array_end, .)
+ .init_array    0x0000905c        0x4 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
+                0x00009060                PROVIDE (__init_array_end, .)
 
-.fini_array     0x000090a8        0x4
+.fini_array     0x00009060        0x4
                 [!provide]                PROVIDE (__fini_array_start, .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x000090a8        0x4 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
+ .fini_array    0x00009060        0x4 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
                 [!provide]                PROVIDE (__fini_array_end, .)
-                0x000090ac                __etext = .
-                0x000090ac                __DATA_ROM = .
+                0x00009064                __etext = .
+                0x00009064                __DATA_ROM = .
 
 .mtb            0x20000400        0x0
                 0x20000400                . = ALIGN (0x8)
@@ -1070,7 +1070,7 @@ LOAD d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/
                 0x20000400                . = ALIGN (0x8)
                 0x20000400                _mtb_end = .
 
-.data           0x20000400        0x0 load address 0x000090ac
+.data           0x20000400        0x0 load address 0x00009064
                 0x20000400                . = ALIGN (0x4)
                 0x20000400                __DATA_RAM = .
                 0x20000400                __data_start__ = .
@@ -1079,7 +1079,7 @@ LOAD d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/
  *(.jcr*)
                 0x20000400                . = ALIGN (0x4)
                 0x20000400                __data_end__ = .
-                0x000090ac                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
+                0x00009064                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
 
 .igot.plt       0x20000400        0x0
  .igot.plt      0x20000400        0x0 d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
@@ -1185,16 +1185,16 @@ LOAD d:/freescale/ahl-gec-ide/gcc/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/
                 0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data overflowed with stack and heap)
 OUTPUT(GPIO-四种警告.elf elf32-littlearm)
 
-.debug_info     0x00000000     0x6f60
+.debug_info     0x00000000     0x6f04
  .debug_info    0x00000000      0x402 ./obj/system_MKL36Z4.o
- .debug_info    0x00000402      0xbdb ./obj/main.o
- .debug_info    0x00000fdd      0xf4b ./obj/flash.o
- .debug_info    0x00001f28     0x11e6 ./obj/gpio.o
- .debug_info    0x0000310e      0xaf5 ./obj/wdog.o
- .debug_info    0x00003c03      0xaad ./obj/gec.o
- .debug_info    0x000046b0     0x13ea ./obj/uart.o
- .debug_info    0x00005a9a     0x14a0 ./obj/printf.o
- .debug_info    0x00006f3a       0x26 ./obj/startup_MKL36Z4.o
+ .debug_info    0x00000402      0xb7f ./obj/main.o
+ .debug_info    0x00000f81      0xf4b ./obj/flash.o
+ .debug_info    0x00001ecc     0x11e6 ./obj/gpio.o
+ .debug_info    0x000030b2      0xaf5 ./obj/wdog.o
+ .debug_info    0x00003ba7      0xaad ./obj/gec.o
+ .debug_info    0x00004654     0x13ea ./obj/uart.o
+ .debug_info    0x00005a3e     0x14a0 ./obj/printf.o
+ .debug_info    0x00006ede       0x26 ./obj/startup_MKL36Z4.o
 
 .debug_abbrev   0x00000000     0x14fc
  .debug_abbrev  0x00000000       0xed ./obj/system_MKL36Z4.o
@@ -1285,16 +1285,16 @@ OUTPUT(GPIO-四种警告.elf elf32-littlearm)
  .debug_macro   0x0000ebab      0x193 ./obj/uart.o
  .debug_macro   0x0000ed3e      0x1a2 ./obj/printf.o
 
-.debug_line     0x00000000     0x24e2
+.debug_line     0x00000000     0x24de
  .debug_line    0x00000000      0x286 ./obj/system_MKL36Z4.o
- .debug_line    0x00000286      0x4ab ./obj/main.o
- .debug_line    0x00000731      0x50c ./obj/flash.o
- .debug_line    0x00000c3d      0x4b2 ./obj/gpio.o
- .debug_line    0x000010ef      0x3ad ./obj/wdog.o
- .debug_line    0x0000149c      0x47c ./obj/gec.o
- .debug_line    0x00001918      0x52b ./obj/uart.o
- .debug_line    0x00001e43      0x631 ./obj/printf.o
- .debug_line    0x00002474       0x6e ./obj/startup_MKL36Z4.o
+ .debug_line    0x00000286      0x4a7 ./obj/main.o
+ .debug_line    0x0000072d      0x50c ./obj/flash.o
+ .debug_line    0x00000c39      0x4b2 ./obj/gpio.o
+ .debug_line    0x000010eb      0x3ad ./obj/wdog.o
+ .debug_line    0x00001498      0x47c ./obj/gec.o
+ .debug_line    0x00001914      0x52b ./obj/uart.o
+ .debug_line    0x00001e3f      0x631 ./obj/printf.o
+ .debug_line    0x00002470       0x6e ./obj/startup_MKL36Z4.o
 
 .debug_str      0x00000000    0x4eb32
  .debug_str     0x00000000    0x4a9c1 ./obj/system_MKL36Z4.o
