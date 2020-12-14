@@ -1,0 +1,1475 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                              ./obj/uart.o (__aeabi_uidiv)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+                              ./obj/printf.o (__aeabi_idiv)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                              d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o)
+                              ./obj/printf.o (__aeabi_dcmplt)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                              ./obj/printf.o (__aeabi_uldivmod)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_fixunsdfsi.o)
+                              ./obj/printf.o (__aeabi_d2uiz)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_fixunsdfdi.o)
+                              ./obj/printf.o (__aeabi_d2ulz)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+                              d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(eqdf2.o)
+                              d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o) (__eqdf2)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(gedf2.o)
+                              d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o) (__gedf2)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(ledf2.o)
+                              d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o) (__ledf2)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
+                              ./obj/printf.o (__aeabi_dmul)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(subdf3.o)
+                              ./obj/printf.o (__aeabi_dsub)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(fixdfsi.o)
+                              d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_fixunsdfsi.o) (__aeabi_d2iz)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(floatunsidf.o)
+                              ./obj/printf.o (__aeabi_ui2d)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+                              d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(muldf3.o) (__clzsi2)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+                              d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o) (__clzdi2)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-exit.o)
+                              d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (exit)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-impure.o)
+                              d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-init.o)
+                              d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (__libc_init_array)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
+                              ./obj/flash.o (memcpy)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memset.o)
+                              d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (memset)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-strlen.o)
+                              ./obj/printf.o (strlen)
+d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+                              d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+gRecvBuff           0x200             ./obj/main.o
+gLen                0x4               ./obj/main.o
+component_fun       0x4               ./obj/gec.o
+gSendBuff           0x200             ./obj/main.o
+gFlag               0x1               ./obj/main.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+ .data          0x00000000        0x4 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text          0x00000000       0x80 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .group         0x00000000        0xc ./obj/system_MKL36Z4.o
+ .group         0x00000000        0xc ./obj/system_MKL36Z4.o
+ .group         0x00000000        0xc ./obj/system_MKL36Z4.o
+ .group         0x00000000        0xc ./obj/system_MKL36Z4.o
+ .group         0x00000000        0xc ./obj/system_MKL36Z4.o
+ .group         0x00000000        0xc ./obj/system_MKL36Z4.o
+ .group         0x00000000        0xc ./obj/system_MKL36Z4.o
+ .group         0x00000000        0xc ./obj/system_MKL36Z4.o
+ .group         0x00000000        0xc ./obj/system_MKL36Z4.o
+ .group         0x00000000        0xc ./obj/system_MKL36Z4.o
+ .group         0x00000000        0xc ./obj/system_MKL36Z4.o
+ .group         0x00000000        0xc ./obj/system_MKL36Z4.o
+ .text          0x00000000        0x0 ./obj/system_MKL36Z4.o
+ .data          0x00000000        0x0 ./obj/system_MKL36Z4.o
+ .bss           0x00000000        0x0 ./obj/system_MKL36Z4.o
+ .group         0x00000000        0xc ./obj/dma.o
+ .group         0x00000000        0xc ./obj/dma.o
+ .group         0x00000000        0xc ./obj/dma.o
+ .group         0x00000000        0xc ./obj/dma.o
+ .group         0x00000000        0xc ./obj/dma.o
+ .group         0x00000000        0xc ./obj/dma.o
+ .group         0x00000000        0xc ./obj/dma.o
+ .group         0x00000000        0xc ./obj/dma.o
+ .group         0x00000000        0xc ./obj/dma.o
+ .group         0x00000000        0xc ./obj/dma.o
+ .group         0x00000000        0xc ./obj/dma.o
+ .group         0x00000000        0xc ./obj/dma.o
+ .group         0x00000000        0xc ./obj/dma.o
+ .group         0x00000000        0xc ./obj/dma.o
+ .group         0x00000000        0xc ./obj/dma.o
+ .group         0x00000000        0xc ./obj/dma.o
+ .text          0x00000000        0x0 ./obj/dma.o
+ .data          0x00000000        0x0 ./obj/dma.o
+ .bss           0x00000000        0x0 ./obj/dma.o
+ .text.dma_enable_int
+                0x00000000       0x30 ./obj/dma.o
+ .rodata.dma_irq_table
+                0x00000000        0x4 ./obj/dma.o
+ .debug_macro   0x00000000      0xb32 ./obj/dma.o
+ .debug_macro   0x00000000       0x22 ./obj/dma.o
+ .debug_macro   0x00000000       0x56 ./obj/dma.o
+ .debug_macro   0x00000000       0x51 ./obj/dma.o
+ .debug_macro   0x00000000      0x103 ./obj/dma.o
+ .debug_macro   0x00000000       0x6a ./obj/dma.o
+ .debug_macro   0x00000000      0x1df ./obj/dma.o
+ .debug_macro   0x00000000       0x3a ./obj/dma.o
+ .debug_macro   0x00000000       0x26 ./obj/dma.o
+ .debug_macro   0x00000000      0x306 ./obj/dma.o
+ .debug_macro   0x00000000     0xc3a9 ./obj/dma.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .group         0x00000000        0xc ./obj/flash.o
+ .text          0x00000000        0x0 ./obj/flash.o
+ .data          0x00000000        0x0 ./obj/flash.o
+ .bss           0x00000000        0x0 ./obj/flash.o
+ .text.flash_init
+                0x00000000       0x28 ./obj/flash.o
+ .text.flash_read_logic
+                0x00000000       0x10 ./obj/flash.o
+ .text.flash_protect
+                0x00000000       0x60 ./obj/flash.o
+ .text.flash_unprotect
+                0x00000000       0x68 ./obj/flash.o
+ .text.flash_isSectorProtected
+                0x00000000       0x6c ./obj/flash.o
+ .text.flash_write
+                0x00000000       0x5c ./obj/flash.o
+ .debug_macro   0x00000000      0xb32 ./obj/flash.o
+ .debug_macro   0x00000000       0x16 ./obj/flash.o
+ .debug_macro   0x00000000       0x22 ./obj/flash.o
+ .debug_macro   0x00000000       0x56 ./obj/flash.o
+ .debug_macro   0x00000000       0x51 ./obj/flash.o
+ .debug_macro   0x00000000      0x103 ./obj/flash.o
+ .debug_macro   0x00000000       0x6a ./obj/flash.o
+ .debug_macro   0x00000000      0x1df ./obj/flash.o
+ .debug_macro   0x00000000       0x39 ./obj/flash.o
+ .debug_macro   0x00000000       0x3a ./obj/flash.o
+ .debug_macro   0x00000000       0x26 ./obj/flash.o
+ .debug_macro   0x00000000      0x306 ./obj/flash.o
+ .debug_macro   0x00000000     0xc3a9 ./obj/flash.o
+ .debug_macro   0x00000000       0x34 ./obj/flash.o
+ .debug_macro   0x00000000       0x46 ./obj/flash.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/gpio.o
+ .text          0x00000000        0x0 ./obj/gpio.o
+ .data          0x00000000        0x0 ./obj/gpio.o
+ .bss           0x00000000        0x0 ./obj/gpio.o
+ .text.gpio_clear_allint
+                0x00000000       0x20 ./obj/gpio.o
+ .text.gpio_get_port_pin
+                0x00000000        0x8 ./obj/gpio.o
+ .text.gpio_set
+                0x00000000       0x44 ./obj/gpio.o
+ .text.gpio_init
+                0x00000000       0x7c ./obj/gpio.o
+ .text.gpio_get
+                0x00000000       0x30 ./obj/gpio.o
+ .text.gpio_reverse
+                0x00000000       0x30 ./obj/gpio.o
+ .text.gpio_pull
+                0x00000000       0x64 ./obj/gpio.o
+ .text.gpio_enable_int
+                0x00000000       0x6c ./obj/gpio.o
+ .text.gpio_disable_int
+                0x00000000       0x5c ./obj/gpio.o
+ .text.gpio_get_int
+                0x00000000       0x30 ./obj/gpio.o
+ .text.gpio_clear_int
+                0x00000000       0x30 ./obj/gpio.o
+ .text.gpio_drive_strength
+                0x00000000       0x48 ./obj/gpio.o
+ .rodata.GPIO_ARR
+                0x00000000       0x14 ./obj/gpio.o
+ .rodata.PORT_ARR
+                0x00000000       0x14 ./obj/gpio.o
+ .debug_info    0x00000000     0x1375 ./obj/gpio.o
+ .debug_abbrev  0x00000000      0x3d9 ./obj/gpio.o
+ .debug_loc     0x00000000      0x416 ./obj/gpio.o
+ .debug_aranges
+                0x00000000       0x78 ./obj/gpio.o
+ .debug_ranges  0x00000000       0x68 ./obj/gpio.o
+ .debug_macro   0x00000000      0x191 ./obj/gpio.o
+ .debug_macro   0x00000000      0xb32 ./obj/gpio.o
+ .debug_macro   0x00000000       0x16 ./obj/gpio.o
+ .debug_macro   0x00000000       0x22 ./obj/gpio.o
+ .debug_macro   0x00000000       0x56 ./obj/gpio.o
+ .debug_macro   0x00000000       0x51 ./obj/gpio.o
+ .debug_macro   0x00000000      0x103 ./obj/gpio.o
+ .debug_macro   0x00000000       0x6a ./obj/gpio.o
+ .debug_macro   0x00000000      0x1df ./obj/gpio.o
+ .debug_macro   0x00000000       0x39 ./obj/gpio.o
+ .debug_macro   0x00000000       0x3a ./obj/gpio.o
+ .debug_macro   0x00000000       0x26 ./obj/gpio.o
+ .debug_macro   0x00000000      0x306 ./obj/gpio.o
+ .debug_macro   0x00000000     0xc3a9 ./obj/gpio.o
+ .debug_macro   0x00000000       0x34 ./obj/gpio.o
+ .debug_macro   0x00000000       0x46 ./obj/gpio.o
+ .debug_macro   0x00000000       0x64 ./obj/gpio.o
+ .debug_macro   0x00000000       0x18 ./obj/gpio.o
+ .debug_macro   0x00000000       0x35 ./obj/gpio.o
+ .debug_macro   0x00000000       0x34 ./obj/gpio.o
+ .debug_macro   0x00000000      0x16d ./obj/gpio.o
+ .debug_macro   0x00000000       0x16 ./obj/gpio.o
+ .debug_macro   0x00000000       0x43 ./obj/gpio.o
+ .debug_macro   0x00000000       0x34 ./obj/gpio.o
+ .debug_macro   0x00000000       0x10 ./obj/gpio.o
+ .debug_macro   0x00000000       0x58 ./obj/gpio.o
+ .debug_macro   0x00000000      0x182 ./obj/gpio.o
+ .debug_macro   0x00000000      0x35c ./obj/gpio.o
+ .debug_macro   0x00000000       0x10 ./obj/gpio.o
+ .debug_macro   0x00000000       0x35 ./obj/gpio.o
+ .debug_macro   0x00000000       0x52 ./obj/gpio.o
+ .debug_line    0x00000000      0x6e6 ./obj/gpio.o
+ .debug_str     0x00000000    0x4e422 ./obj/gpio.o
+ .comment       0x00000000       0x4d ./obj/gpio.o
+ .debug_frame   0x00000000      0x14c ./obj/gpio.o
+ .ARM.attributes
+                0x00000000       0x2c ./obj/gpio.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/wdog.o
+ .text          0x00000000        0x0 ./obj/wdog.o
+ .data          0x00000000        0x0 ./obj/wdog.o
+ .bss           0x00000000        0x0 ./obj/wdog.o
+ .text.wdog_start
+                0x00000000       0x3c ./obj/wdog.o
+ .text.wdog_feed
+                0x00000000       0x18 ./obj/wdog.o
+ .debug_macro   0x00000000      0xb32 ./obj/wdog.o
+ .debug_macro   0x00000000       0x16 ./obj/wdog.o
+ .debug_macro   0x00000000       0x22 ./obj/wdog.o
+ .debug_macro   0x00000000       0x56 ./obj/wdog.o
+ .debug_macro   0x00000000       0x51 ./obj/wdog.o
+ .debug_macro   0x00000000      0x103 ./obj/wdog.o
+ .debug_macro   0x00000000       0x6a ./obj/wdog.o
+ .debug_macro   0x00000000      0x1df ./obj/wdog.o
+ .debug_macro   0x00000000       0x39 ./obj/wdog.o
+ .debug_macro   0x00000000       0x3a ./obj/wdog.o
+ .debug_macro   0x00000000       0x26 ./obj/wdog.o
+ .debug_macro   0x00000000      0x306 ./obj/wdog.o
+ .debug_macro   0x00000000     0xc3a9 ./obj/wdog.o
+ .debug_macro   0x00000000       0x34 ./obj/wdog.o
+ .debug_macro   0x00000000       0x46 ./obj/wdog.o
+ .debug_macro   0x00000000       0x64 ./obj/wdog.o
+ .debug_macro   0x00000000       0x18 ./obj/wdog.o
+ .debug_macro   0x00000000       0x35 ./obj/wdog.o
+ .debug_macro   0x00000000       0x34 ./obj/wdog.o
+ .debug_macro   0x00000000      0x16d ./obj/wdog.o
+ .debug_macro   0x00000000       0x16 ./obj/wdog.o
+ .debug_macro   0x00000000       0x43 ./obj/wdog.o
+ .debug_macro   0x00000000       0x34 ./obj/wdog.o
+ .debug_macro   0x00000000       0x10 ./obj/wdog.o
+ .debug_macro   0x00000000       0x58 ./obj/wdog.o
+ .debug_macro   0x00000000      0x182 ./obj/wdog.o
+ .debug_macro   0x00000000      0x35c ./obj/wdog.o
+ .debug_macro   0x00000000       0x10 ./obj/wdog.o
+ .debug_macro   0x00000000       0x35 ./obj/wdog.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .group         0x00000000        0xc ./obj/gec.o
+ .text          0x00000000        0x0 ./obj/gec.o
+ .data          0x00000000        0x0 ./obj/gec.o
+ .bss           0x00000000        0x0 ./obj/gec.o
+ .debug_macro   0x00000000      0xb32 ./obj/gec.o
+ .debug_macro   0x00000000       0x16 ./obj/gec.o
+ .debug_macro   0x00000000       0x22 ./obj/gec.o
+ .debug_macro   0x00000000       0x56 ./obj/gec.o
+ .debug_macro   0x00000000       0x51 ./obj/gec.o
+ .debug_macro   0x00000000      0x103 ./obj/gec.o
+ .debug_macro   0x00000000       0x6a ./obj/gec.o
+ .debug_macro   0x00000000      0x1df ./obj/gec.o
+ .debug_macro   0x00000000       0x39 ./obj/gec.o
+ .debug_macro   0x00000000       0x3a ./obj/gec.o
+ .debug_macro   0x00000000       0x26 ./obj/gec.o
+ .debug_macro   0x00000000      0x306 ./obj/gec.o
+ .debug_macro   0x00000000     0xc3a9 ./obj/gec.o
+ .debug_macro   0x00000000       0x34 ./obj/gec.o
+ .debug_macro   0x00000000       0x46 ./obj/gec.o
+ .debug_macro   0x00000000       0x64 ./obj/gec.o
+ .debug_macro   0x00000000       0x18 ./obj/gec.o
+ .debug_macro   0x00000000       0x35 ./obj/gec.o
+ .debug_macro   0x00000000       0x34 ./obj/gec.o
+ .debug_macro   0x00000000      0x16d ./obj/gec.o
+ .debug_macro   0x00000000       0x16 ./obj/gec.o
+ .debug_macro   0x00000000       0x43 ./obj/gec.o
+ .debug_macro   0x00000000       0x34 ./obj/gec.o
+ .debug_macro   0x00000000       0x10 ./obj/gec.o
+ .debug_macro   0x00000000       0x58 ./obj/gec.o
+ .debug_macro   0x00000000      0x182 ./obj/gec.o
+ .debug_macro   0x00000000      0x35c ./obj/gec.o
+ .debug_macro   0x00000000       0x10 ./obj/gec.o
+ .debug_macro   0x00000000       0x35 ./obj/gec.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .group         0x00000000        0xc ./obj/main.o
+ .text          0x00000000        0x0 ./obj/main.o
+ .data          0x00000000        0x0 ./obj/main.o
+ .bss           0x00000000        0x0 ./obj/main.o
+ .text.delay_ms
+                0x00000000       0x18 ./obj/main.o
+ .debug_macro   0x00000000      0xb32 ./obj/main.o
+ .debug_macro   0x00000000       0x16 ./obj/main.o
+ .debug_macro   0x00000000       0x22 ./obj/main.o
+ .debug_macro   0x00000000       0x56 ./obj/main.o
+ .debug_macro   0x00000000       0x51 ./obj/main.o
+ .debug_macro   0x00000000      0x103 ./obj/main.o
+ .debug_macro   0x00000000       0x6a ./obj/main.o
+ .debug_macro   0x00000000      0x1df ./obj/main.o
+ .debug_macro   0x00000000       0x39 ./obj/main.o
+ .debug_macro   0x00000000       0x3a ./obj/main.o
+ .debug_macro   0x00000000       0x26 ./obj/main.o
+ .debug_macro   0x00000000      0x306 ./obj/main.o
+ .debug_macro   0x00000000     0xc3a9 ./obj/main.o
+ .debug_macro   0x00000000       0x34 ./obj/main.o
+ .debug_macro   0x00000000       0x46 ./obj/main.o
+ .debug_macro   0x00000000       0xa0 ./obj/main.o
+ .debug_macro   0x00000000       0x64 ./obj/main.o
+ .debug_macro   0x00000000       0x18 ./obj/main.o
+ .debug_macro   0x00000000       0x35 ./obj/main.o
+ .debug_macro   0x00000000       0x34 ./obj/main.o
+ .debug_macro   0x00000000      0x16d ./obj/main.o
+ .debug_macro   0x00000000       0x16 ./obj/main.o
+ .debug_macro   0x00000000       0x43 ./obj/main.o
+ .debug_macro   0x00000000       0x34 ./obj/main.o
+ .debug_macro   0x00000000       0x10 ./obj/main.o
+ .debug_macro   0x00000000       0x58 ./obj/main.o
+ .debug_macro   0x00000000      0x182 ./obj/main.o
+ .debug_macro   0x00000000      0x35c ./obj/main.o
+ .debug_macro   0x00000000       0x10 ./obj/main.o
+ .debug_macro   0x00000000       0x35 ./obj/main.o
+ .debug_macro   0x00000000       0x28 ./obj/main.o
+ .debug_macro   0x00000000       0x9a ./obj/main.o
+ .debug_macro   0x00000000       0x6a ./obj/main.o
+ .debug_macro   0x00000000       0x22 ./obj/main.o
+ .debug_macro   0x00000000       0x58 ./obj/main.o
+ .debug_macro   0x00000000       0x22 ./obj/main.o
+ .debug_macro   0x00000000       0x70 ./obj/main.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .group         0x00000000        0xc ./obj/uart.o
+ .text          0x00000000        0x0 ./obj/uart.o
+ .data          0x00000000        0x0 ./obj/uart.o
+ .bss           0x00000000        0x0 ./obj/uart.o
+ .text.uart_deinit
+                0x00000000       0x6c ./obj/uart.o
+ .text.uart_sendN
+                0x00000000       0x34 ./obj/uart.o
+ .text.uart_send_string
+                0x00000000       0x2a ./obj/uart.o
+ .text.uart_re1
+                0x00000000       0x6c ./obj/uart.o
+ .text.uart_reN
+                0x00000000       0x54 ./obj/uart.o
+ .text.uart_enable_re_int
+                0x00000000       0x54 ./obj/uart.o
+ .text.uart_disable_re_int
+                0x00000000       0x50 ./obj/uart.o
+ .text.uart_get_re_int
+                0x00000000       0x58 ./obj/uart.o
+ .debug_macro   0x00000000      0xb32 ./obj/uart.o
+ .debug_macro   0x00000000       0x16 ./obj/uart.o
+ .debug_macro   0x00000000       0x22 ./obj/uart.o
+ .debug_macro   0x00000000       0x56 ./obj/uart.o
+ .debug_macro   0x00000000       0x51 ./obj/uart.o
+ .debug_macro   0x00000000      0x103 ./obj/uart.o
+ .debug_macro   0x00000000       0x6a ./obj/uart.o
+ .debug_macro   0x00000000      0x1df ./obj/uart.o
+ .debug_macro   0x00000000       0x39 ./obj/uart.o
+ .debug_macro   0x00000000       0x3a ./obj/uart.o
+ .debug_macro   0x00000000       0x26 ./obj/uart.o
+ .debug_macro   0x00000000      0x306 ./obj/uart.o
+ .debug_macro   0x00000000     0xc3a9 ./obj/uart.o
+ .debug_macro   0x00000000       0x34 ./obj/uart.o
+ .debug_macro   0x00000000       0x46 ./obj/uart.o
+ .debug_macro   0x00000000       0x64 ./obj/uart.o
+ .debug_macro   0x00000000       0x18 ./obj/uart.o
+ .debug_macro   0x00000000       0x35 ./obj/uart.o
+ .debug_macro   0x00000000       0x34 ./obj/uart.o
+ .debug_macro   0x00000000      0x16d ./obj/uart.o
+ .debug_macro   0x00000000       0x16 ./obj/uart.o
+ .debug_macro   0x00000000       0x43 ./obj/uart.o
+ .debug_macro   0x00000000       0x34 ./obj/uart.o
+ .debug_macro   0x00000000       0x10 ./obj/uart.o
+ .debug_macro   0x00000000       0x58 ./obj/uart.o
+ .debug_macro   0x00000000      0x182 ./obj/uart.o
+ .debug_macro   0x00000000      0x35c ./obj/uart.o
+ .debug_macro   0x00000000       0x10 ./obj/uart.o
+ .debug_macro   0x00000000       0x35 ./obj/uart.o
+ .debug_macro   0x00000000       0x28 ./obj/uart.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .group         0x00000000        0xc ./obj/isr.o
+ .text          0x00000000        0x0 ./obj/isr.o
+ .data          0x00000000        0x0 ./obj/isr.o
+ .bss           0x00000000        0x0 ./obj/isr.o
+ .debug_macro   0x00000000      0xb32 ./obj/isr.o
+ .debug_macro   0x00000000       0x16 ./obj/isr.o
+ .debug_macro   0x00000000       0x22 ./obj/isr.o
+ .debug_macro   0x00000000       0x56 ./obj/isr.o
+ .debug_macro   0x00000000       0x51 ./obj/isr.o
+ .debug_macro   0x00000000      0x103 ./obj/isr.o
+ .debug_macro   0x00000000       0x6a ./obj/isr.o
+ .debug_macro   0x00000000      0x1df ./obj/isr.o
+ .debug_macro   0x00000000       0x39 ./obj/isr.o
+ .debug_macro   0x00000000       0x3a ./obj/isr.o
+ .debug_macro   0x00000000       0x26 ./obj/isr.o
+ .debug_macro   0x00000000      0x306 ./obj/isr.o
+ .debug_macro   0x00000000     0xc3a9 ./obj/isr.o
+ .debug_macro   0x00000000       0x34 ./obj/isr.o
+ .debug_macro   0x00000000       0x46 ./obj/isr.o
+ .debug_macro   0x00000000       0xa0 ./obj/isr.o
+ .debug_macro   0x00000000       0x64 ./obj/isr.o
+ .debug_macro   0x00000000       0x18 ./obj/isr.o
+ .debug_macro   0x00000000       0x35 ./obj/isr.o
+ .debug_macro   0x00000000       0x34 ./obj/isr.o
+ .debug_macro   0x00000000      0x16d ./obj/isr.o
+ .debug_macro   0x00000000       0x16 ./obj/isr.o
+ .debug_macro   0x00000000       0x43 ./obj/isr.o
+ .debug_macro   0x00000000       0x34 ./obj/isr.o
+ .debug_macro   0x00000000       0x10 ./obj/isr.o
+ .debug_macro   0x00000000       0x58 ./obj/isr.o
+ .debug_macro   0x00000000      0x182 ./obj/isr.o
+ .debug_macro   0x00000000      0x35c ./obj/isr.o
+ .debug_macro   0x00000000       0x10 ./obj/isr.o
+ .debug_macro   0x00000000       0x35 ./obj/isr.o
+ .debug_macro   0x00000000       0x28 ./obj/isr.o
+ .debug_macro   0x00000000       0x9a ./obj/isr.o
+ .debug_macro   0x00000000       0x6a ./obj/isr.o
+ .debug_macro   0x00000000       0x22 ./obj/isr.o
+ .debug_macro   0x00000000       0x58 ./obj/isr.o
+ .debug_macro   0x00000000       0x22 ./obj/isr.o
+ .debug_macro   0x00000000       0x70 ./obj/isr.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .group         0x00000000        0xc ./obj/printf.o
+ .text          0x00000000        0x0 ./obj/printf.o
+ .data          0x00000000        0x0 ./obj/printf.o
+ .bss           0x00000000        0x0 ./obj/printf.o
+ .debug_macro   0x00000000      0xb32 ./obj/printf.o
+ .debug_macro   0x00000000       0x16 ./obj/printf.o
+ .debug_macro   0x00000000       0x22 ./obj/printf.o
+ .debug_macro   0x00000000       0x56 ./obj/printf.o
+ .debug_macro   0x00000000       0x51 ./obj/printf.o
+ .debug_macro   0x00000000      0x103 ./obj/printf.o
+ .debug_macro   0x00000000       0x6a ./obj/printf.o
+ .debug_macro   0x00000000      0x1df ./obj/printf.o
+ .debug_macro   0x00000000       0x39 ./obj/printf.o
+ .debug_macro   0x00000000       0x3a ./obj/printf.o
+ .debug_macro   0x00000000       0x26 ./obj/printf.o
+ .debug_macro   0x00000000      0x306 ./obj/printf.o
+ .debug_macro   0x00000000     0xc3a9 ./obj/printf.o
+ .debug_macro   0x00000000       0x34 ./obj/printf.o
+ .debug_macro   0x00000000       0x46 ./obj/printf.o
+ .debug_macro   0x00000000       0x64 ./obj/printf.o
+ .debug_macro   0x00000000       0x18 ./obj/printf.o
+ .debug_macro   0x00000000       0x35 ./obj/printf.o
+ .debug_macro   0x00000000       0x34 ./obj/printf.o
+ .debug_macro   0x00000000      0x16d ./obj/printf.o
+ .debug_macro   0x00000000       0x16 ./obj/printf.o
+ .debug_macro   0x00000000       0x43 ./obj/printf.o
+ .debug_macro   0x00000000       0x34 ./obj/printf.o
+ .debug_macro   0x00000000       0x10 ./obj/printf.o
+ .debug_macro   0x00000000       0x58 ./obj/printf.o
+ .debug_macro   0x00000000      0x182 ./obj/printf.o
+ .debug_macro   0x00000000      0x35c ./obj/printf.o
+ .debug_macro   0x00000000       0x10 ./obj/printf.o
+ .debug_macro   0x00000000       0x35 ./obj/printf.o
+ .debug_macro   0x00000000       0x28 ./obj/printf.o
+ .debug_macro   0x00000000       0x9a ./obj/printf.o
+ .data          0x00000000        0x0 ./obj/startup_MKL36Z4.o
+ .bss           0x00000000        0x0 ./obj/startup_MKL36Z4.o
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_fixunsdfsi.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_fixunsdfsi.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_fixunsdfdi.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_fixunsdfdi.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(eqdf2.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(eqdf2.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(gedf2.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(gedf2.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(ledf2.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(ledf2.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(subdf3.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(subdf3.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(fixdfsi.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(fixdfsi.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(floatunsidf.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(floatunsidf.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+ .text          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x48 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtend.o
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtend.o
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtend.o
+ .text          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+ .data          0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+ .bss           0x00000000        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x00006800         0x00000400         xr
+m_flash_config   0x00006c00         0x00000010         xr
+m_text           0x00006c10         0x00008ff0         xr
+m_data           0x20000400         0x00001400         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+LOAD d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+LOAD d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+LOAD ./obj/system_MKL36Z4.o
+LOAD ./obj/dma.o
+LOAD ./obj/flash.o
+LOAD ./obj/gpio.o
+LOAD ./obj/wdog.o
+LOAD ./obj/gec.o
+LOAD ./obj/main.o
+LOAD ./obj/uart.o
+LOAD ./obj/isr.o
+LOAD ./obj/printf.o
+LOAD ./obj/startup_MKL36Z4.o
+LOAD d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++_nano.a
+LOAD d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
+START GROUP
+LOAD d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a
+LOAD d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a
+LOAD d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a
+END GROUP
+START GROUP
+LOAD d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a
+LOAD d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a
+LOAD d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a
+END GROUP
+START GROUP
+LOAD d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a
+LOAD d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a
+LOAD d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a
+END GROUP
+LOAD d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtend.o
+LOAD d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+                0x00000200                HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x200
+                0x00000100                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x100
+                0x00000400                MCU_SECTORSIZE = 0x400
+                0x00000000                MCU_FLASH_ADDR_START = 0x0
+                0x0000001a                GEC_USER_SECTOR_START = 0x1a
+                0x0000003e                GEC_USER_SECTOR_END = 0x3e
+                0x20000400                GEC_USER_RAM_START = 0x20000400
+                0x200017ff                GEC_USER_RAM_END = 0x200017ff
+
+.interrupts     0x00006800       0xc0
+                0x00006800                __VECTOR_TABLE = .
+                0x00006800                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x00006800       0xc0 ./obj/startup_MKL36Z4.o
+                0x00006800                __isr_vector
+                0x000068c0                . = ALIGN (0x4)
+
+.flash_config   0x00006c00       0x10
+                0x00006c00                . = ALIGN (0x4)
+ *(.FlashConfig)
+ .FlashConfig   0x00006c00       0x10 ./obj/startup_MKL36Z4.o
+                0x00006c10                . = ALIGN (0x4)
+
+.text           0x00006c10     0x2780
+                0x00006c10                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00006c10       0x48 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text          0x00006c58       0x50 ./obj/startup_MKL36Z4.o
+                0x00006c58                Reset_Handler
+                0x00006ca0                HardFault_Handler
+                0x00006ca0                SysTick_Handler
+                0x00006ca0                PendSV_Handler
+                0x00006ca0                NMI_Handler
+                0x00006ca0                PORTC_PORTD_IRQHandler
+                0x00006ca0                I2C1_IRQHandler
+                0x00006ca0                UART1_IRQHandler
+                0x00006ca0                DMA2_IRQHandler
+                0x00006ca0                TPM0_IRQHandler
+                0x00006ca0                I2S0_IRQHandler
+                0x00006ca0                LLWU_IRQHandler
+                0x00006ca0                TSI0_IRQHandler
+                0x00006ca0                ADC0_IRQHandler
+                0x00006ca0                SPI1_IRQHandler
+                0x00006ca0                DefaultISR
+                0x00006ca0                TPM2_IRQHandler
+                0x00006ca0                RTC_IRQHandler
+                0x00006ca0                I2C0_IRQHandler
+                0x00006ca0                LCD_IRQHandler
+                0x00006ca0                RTC_Seconds_IRQHandler
+                0x00006ca0                MCG_IRQHandler
+                0x00006ca0                UART2_IRQHandler
+                0x00006ca0                Reserved20_IRQHandler
+                0x00006ca0                PIT_IRQHandler
+                0x00006ca0                SVC_Handler
+                0x00006ca0                DMA3_IRQHandler
+                0x00006ca0                DMA0_IRQHandler
+                0x00006ca0                DAC0_IRQHandler
+                0x00006ca0                TPM1_IRQHandler
+                0x00006ca0                LVD_LVW_IRQHandler
+                0x00006ca0                SPI0_IRQHandler
+                0x00006ca0                PORTA_IRQHandler
+                0x00006ca0                FTFA_IRQHandler
+                0x00006ca0                Reserved40_IRQHandler
+                0x00006ca0                LPTMR0_IRQHandler
+                0x00006ca0                CMP0_IRQHandler
+                0x00006ca0                DMA1_IRQHandler
+ .text          0x00006ca8      0x114 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                0x00006ca8                __aeabi_uidiv
+                0x00006ca8                __udivsi3
+                0x00006db4                __aeabi_uidivmod
+ .text          0x00006dbc      0x1d4 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+                0x00006dbc                __divsi3
+                0x00006dbc                __aeabi_idiv
+                0x00006f88                __aeabi_idivmod
+ .text          0x00006f90        0x4 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x00006f90                __aeabi_idiv0
+                0x00006f90                __aeabi_ldiv0
+ .text          0x00006f94       0x7c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o)
+                0x00006f94                __aeabi_cdrcmple
+                0x00006fa4                __aeabi_cdcmple
+                0x00006fa4                __aeabi_cdcmpeq
+                0x00006fb4                __aeabi_dcmpeq
+                0x00006fc0                __aeabi_dcmplt
+                0x00006fd4                __aeabi_dcmple
+                0x00006fe8                __aeabi_dcmpgt
+                0x00006ffc                __aeabi_dcmpge
+ .text          0x00007010       0x40 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                0x00007010                __aeabi_uldivmod
+ .text          0x00007050       0x3c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_fixunsdfsi.o)
+                0x00007050                __aeabi_d2uiz
+                0x00007050                __fixunsdfsi
+ .text          0x0000708c       0x3c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_fixunsdfdi.o)
+                0x0000708c                __fixunsdfdi
+                0x0000708c                __aeabi_d2ulz
+ .text          0x000070c8      0x198 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x000070c8                __udivmoddi4
+ .text          0x00007260       0x78 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(eqdf2.o)
+                0x00007260                __nedf2
+                0x00007260                __eqdf2
+ .text          0x000072d8       0xe4 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(gedf2.o)
+                0x000072d8                __gedf2
+                0x000072d8                __gtdf2
+ .text          0x000073bc       0xe0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(ledf2.o)
+                0x000073bc                __ledf2
+                0x000073bc                __ltdf2
+ .text          0x0000749c      0x4d8 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
+                0x0000749c                __aeabi_dmul
+ .text          0x00007974      0x724 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(subdf3.o)
+                0x00007974                __aeabi_dsub
+ .text          0x00008098       0x6c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(fixdfsi.o)
+                0x00008098                __aeabi_d2iz
+ .text          0x00008104       0x4c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(floatunsidf.o)
+                0x00008104                __aeabi_ui2d
+ .text          0x00008150       0x3c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+                0x00008150                __clzsi2
+ .text          0x0000818c       0x18 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+                0x0000818c                __clzdi2
+ .text          0x000081a4        0xe d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-strlen.o)
+                0x000081a4                strlen
+ *(.text*)
+ *fill*         0x000081b2        0x2 
+ .text.SystemInit
+                0x000081b4       0xc8 ./obj/system_MKL36Z4.o
+                0x000081b4                SystemInit
+ .text.dma_get_recv_count
+                0x0000827c       0x1c ./obj/dma.o
+                0x0000827c                dma_get_recv_count
+ .text.dma_clear
+                0x00008298       0x44 ./obj/dma.o
+                0x00008298                dma_clear
+ .text.dma_uart_init
+                0x000082dc      0x148 ./obj/dma.o
+                0x000082dc                dma_uart_init
+ .text.dma_uart_recv
+                0x00008424       0x70 ./obj/dma.o
+                0x00008424                dma_uart_recv
+ .text.dma_uart_send
+                0x00008494       0x98 ./obj/dma.o
+                0x00008494                dma_uart_send
+ .text.flash_read_physical
+                0x0000852c        0x8 ./obj/flash.o
+                0x0000852c                flash_read_physical
+ .text.flash_isempty
+                0x00008534       0x1e ./obj/flash.o
+                0x00008534                flash_isempty
+ *fill*         0x00008552        0x2 
+ .text.flash_cmd_launch
+                0x00008554       0x44 ./obj/flash.o
+                0x00008554                flash_cmd_launch
+ .text.flash_erase
+                0x00008598       0x64 ./obj/flash.o
+                0x00008598                flash_erase
+ .text.flash_write_physical
+                0x000085fc       0x54 ./obj/flash.o
+                0x000085fc                flash_write_physical
+ .text.wdog_stop
+                0x00008650       0x14 ./obj/wdog.o
+                0x00008650                wdog_stop
+ .text.Vectors_Init
+                0x00008664       0x90 ./obj/gec.o
+                0x00008664                Vectors_Init
+ .text.main     0x000086f4       0x58 ./obj/main.o
+                0x000086f4                main
+ .text.uart_is_uartNo
+                0x0000874c        0xc ./obj/uart.o
+                0x0000874c                uart_is_uartNo
+ .text.uart_init
+                0x00008758      0x14c ./obj/uart.o
+                0x00008758                uart_init
+ .text.uart_send1
+                0x000088a4       0x5c ./obj/uart.o
+                0x000088a4                uart_send1
+ .text.uart_enable_idle_int
+                0x00008900       0x44 ./obj/uart.o
+                0x00008900                uart_enable_idle_int
+ .text.uart_clear_idle_int
+                0x00008944       0x24 ./obj/uart.o
+                0x00008944                uart_clear_idle_int
+ .text.UART0_IRQHandler
+                0x00008968       0x3c ./obj/isr.o
+                0x00008968                UART0_IRQHandler
+ .text.printk_putc
+                0x000089a4       0x2a ./obj/printf.o
+ .text.printk_mknumstr
+                0x000089ce       0x88 ./obj/printf.o
+ .text.printk_pad_zero
+                0x00008a56       0x1e ./obj/printf.o
+ .text.printk_pad_space
+                0x00008a74       0x1e ./obj/printf.o
+ .text.out_char
+                0x00008a92        0xc ./obj/printf.o
+                0x00008a92                out_char
+ *fill*         0x00008a9e        0x2 
+ .text.printk_mkfloatstr
+                0x00008aa0      0x1a4 ./obj/printf.o
+                0x00008aa0                printk_mkfloatstr
+ .text.printk   0x00008c44      0x56c ./obj/printf.o
+                0x00008c44                printk
+ .text.myprintf
+                0x000091b0       0x24 ./obj/printf.o
+                0x000091b0                myprintf
+ .text.memcpy   0x000091d4       0x12 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
+                0x000091d4                memcpy
+ .text.memset   0x000091e6       0x10 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memset.o)
+                0x000091e6                memset
+ *(.rodata)
+ *fill*         0x000091f6        0x2 
+ .rodata        0x000091f8       0x40 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
+ *(.rodata*)
+ .rodata.Vectors_Init.str1.4
+                0x00009238       0x48 ./obj/gec.o
+ .rodata.main.str1.4
+                0x00009280       0x14 ./obj/main.o
+ .rodata.UART_ARR
+                0x00009294        0x8 ./obj/uart.o
+                0x00009294                UART_ARR
+ .rodata.UART0_IRQHandler.str1.4
+                0x0000929c       0x14 ./obj/isr.o
+ .rodata.printk
+                0x000092b0       0xc8 ./obj/printf.o
+ *(.glue_7)
+ .glue_7        0x00009378        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00009378        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x00009378        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x00009378        0x4 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+                0x00009378                _init
+ .init          0x0000937c        0x8 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x00009384        0x4 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+                0x00009384                _fini
+ .fini          0x00009388        0x8 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+                0x00009390                . = ALIGN (0x4)
+
+.vfp11_veneer   0x00009390        0x0
+ .vfp11_veneer  0x00009390        0x0 linker stubs
+
+.v4_bx          0x00009390        0x0
+ .v4_bx         0x00009390        0x0 linker stubs
+
+.iplt           0x00009390        0x0
+ .iplt          0x00009390        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x00009390        0x8
+                0x00009390                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x00009390        0x8 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x00009398                __exidx_end = .
+
+.rel.dyn        0x00009398        0x0
+ .rel.iplt      0x00009398        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.ctors          0x00009398        0x0
+                0x00009398                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+                0x00009398                __CTOR_END__ = .
+
+.dtors          0x00009398        0x0
+                0x00009398                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+                0x00009398                __DTOR_END__ = .
+
+.preinit_array  0x00009398        0x0
+                0x00009398                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x00009398                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x00009398        0x4
+                0x00009398                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x00009398        0x4 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x0000939c                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000939c        0x4
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000939c        0x4 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x000093a0                __etext = .
+                0x000093a0                __DATA_ROM = .
+
+.mtb            0x20000400        0x0
+                0x20000400                . = ALIGN (0x8)
+                0x20000400                _mtb_start = .
+ *(.mtb_buf)
+                0x20000400                . = ALIGN (0x8)
+                0x20000400                _mtb_end = .
+
+.data           0x20000400        0x8 load address 0x000093a0
+                0x20000400                . = ALIGN (0x4)
+                0x20000400                __DATA_RAM = .
+                0x20000400                __data_start__ = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x20000400        0x4 ./obj/system_MKL36Z4.o
+                0x20000400                SystemCoreClock
+ .data.table_irq_uart
+                0x20000404        0x3 ./obj/uart.o
+                0x20000404                table_irq_uart
+ *(.jcr*)
+                0x20000408                . = ALIGN (0x4)
+ *fill*         0x20000407        0x1 
+                0x20000408                __data_end__ = .
+                0x000093a8                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
+
+.igot.plt       0x20000408        0x0 load address 0x000093a8
+ .igot.plt      0x20000408        0x0 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.bss            0x20000408      0x428 load address 0x000093a8
+                0x20000408                . = ALIGN (0x4)
+                0x20000408                __START_BSS = .
+                0x20000408                __bss_start__ = .
+ *(.bss)
+ .bss           0x20000408       0x1c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x20000424        0x4 ./obj/gec.o
+                0x20000424                component_fun
+ COMMON         0x20000428      0x405 ./obj/main.o
+                0x20000428                gRecvBuff
+                0x20000628                gLen
+                0x2000062c                gSendBuff
+                0x2000082c                gFlag
+                0x20000830                . = ALIGN (0x4)
+ *fill*         0x2000082d        0x3 
+                0x20000830                __bss_end__ = .
+                0x20000830                __END_BSS = .
+
+.heap           0x20000830      0x200 load address 0x000097d0
+                0x20000830                . = ALIGN (0x8)
+                0x20000830                __end__ = .
+                [!provide]                PROVIDE (end = .)
+                0x20000830                __HeapBase = .
+                0x20000a30                . = (. + HEAP_SIZE)
+ *fill*         0x20000830      0x200 
+                0x20000a30                __HeapLimit = .
+
+.stack          0x20000a30      0x100 load address 0x000099d0
+                0x20000a30                . = ALIGN (0x8)
+                0x20000b30                . = (. + STACK_SIZE)
+ *fill*         0x20000a30      0x100 
+                0x20001800                __StackTop = (ORIGIN (m_data) + LENGTH (m_data))
+                0x20001700                __StackLimit = (__StackTop - STACK_SIZE)
+                0x20001800                PROVIDE (__stack = __StackTop)
+
+.ARM.attributes
+                0x00000000       0x28
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x2c ./obj/system_MKL36Z4.o
+ .ARM.attributes
+                0x00000076       0x2c ./obj/dma.o
+ .ARM.attributes
+                0x000000a2       0x2c ./obj/flash.o
+ .ARM.attributes
+                0x000000ce       0x2c ./obj/wdog.o
+ .ARM.attributes
+                0x000000fa       0x2c ./obj/gec.o
+ .ARM.attributes
+                0x00000126       0x2c ./obj/main.o
+ .ARM.attributes
+                0x00000152       0x2c ./obj/uart.o
+ .ARM.attributes
+                0x0000017e       0x2c ./obj/isr.o
+ .ARM.attributes
+                0x000001aa       0x2c ./obj/printf.o
+ .ARM.attributes
+                0x000001d6       0x1b ./obj/startup_MKL36Z4.o
+ .ARM.attributes
+                0x000001f1       0x1e d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000020f       0x1e d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000022d       0x1e d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000024b       0x1e d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000269       0x1e d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000287       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_fixunsdfsi.o)
+ .ARM.attributes
+                0x000002b3       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_fixunsdfdi.o)
+ .ARM.attributes
+                0x000002df       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x0000030b       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(eqdf2.o)
+ .ARM.attributes
+                0x00000337       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(gedf2.o)
+ .ARM.attributes
+                0x00000363       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(ledf2.o)
+ .ARM.attributes
+                0x0000038f       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
+ .ARM.attributes
+                0x000003bb       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(subdf3.o)
+ .ARM.attributes
+                0x000003e7       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(fixdfsi.o)
+ .ARM.attributes
+                0x00000413       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(floatunsidf.o)
+ .ARM.attributes
+                0x0000043f       0x1e d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x0000045d       0x1e d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+ .ARM.attributes
+                0x0000047b       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000004a7       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000004d3       0x1c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000004ef       0x1e d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data overflowed with stack and heap)
+OUTPUT(DMA_接收任意长度字符串.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x7812
+ .debug_info    0x00000000      0x440 ./obj/system_MKL36Z4.o
+ .debug_info    0x00000440      0x9bd ./obj/dma.o
+ .debug_info    0x00000dfd     0x10e2 ./obj/flash.o
+ .debug_info    0x00001edf      0xb9f ./obj/wdog.o
+ .debug_info    0x00002a7e      0xb8b ./obj/gec.o
+ .debug_info    0x00003609      0xae3 ./obj/main.o
+ .debug_info    0x000040ec     0x1659 ./obj/uart.o
+ .debug_info    0x00005745      0xa74 ./obj/isr.o
+ .debug_info    0x000061b9     0x1633 ./obj/printf.o
+ .debug_info    0x000077ec       0x26 ./obj/startup_MKL36Z4.o
+
+.debug_abbrev   0x00000000     0x17db
+ .debug_abbrev  0x00000000      0x101 ./obj/system_MKL36Z4.o
+ .debug_abbrev  0x00000101      0x221 ./obj/dma.o
+ .debug_abbrev  0x00000322      0x3ac ./obj/flash.o
+ .debug_abbrev  0x000006ce      0x237 ./obj/wdog.o
+ .debug_abbrev  0x00000905      0x262 ./obj/gec.o
+ .debug_abbrev  0x00000b67      0x27e ./obj/main.o
+ .debug_abbrev  0x00000de5      0x413 ./obj/uart.o
+ .debug_abbrev  0x000011f8      0x245 ./obj/isr.o
+ .debug_abbrev  0x0000143d      0x38a ./obj/printf.o
+ .debug_abbrev  0x000017c7       0x14 ./obj/startup_MKL36Z4.o
+
+.debug_aranges  0x00000000      0x268
+ .debug_aranges
+                0x00000000       0x20 ./obj/system_MKL36Z4.o
+ .debug_aranges
+                0x00000020       0x48 ./obj/dma.o
+ .debug_aranges
+                0x00000068       0x70 ./obj/flash.o
+ .debug_aranges
+                0x000000d8       0x30 ./obj/wdog.o
+ .debug_aranges
+                0x00000108       0x20 ./obj/gec.o
+ .debug_aranges
+                0x00000128       0x28 ./obj/main.o
+ .debug_aranges
+                0x00000150       0x80 ./obj/uart.o
+ .debug_aranges
+                0x000001d0       0x20 ./obj/isr.o
+ .debug_aranges
+                0x000001f0       0x58 ./obj/printf.o
+ .debug_aranges
+                0x00000248       0x20 ./obj/startup_MKL36Z4.o
+
+.debug_ranges   0x00000000      0x1b8
+ .debug_ranges  0x00000000       0x10 ./obj/system_MKL36Z4.o
+ .debug_ranges  0x00000010       0x38 ./obj/dma.o
+ .debug_ranges  0x00000048       0x60 ./obj/flash.o
+ .debug_ranges  0x000000a8       0x20 ./obj/wdog.o
+ .debug_ranges  0x000000c8       0x10 ./obj/gec.o
+ .debug_ranges  0x000000d8       0x18 ./obj/main.o
+ .debug_ranges  0x000000f0       0x70 ./obj/uart.o
+ .debug_ranges  0x00000160       0x10 ./obj/isr.o
+ .debug_ranges  0x00000170       0x48 ./obj/printf.o
+
+.debug_macro    0x00000000     0xf1ab
+ .debug_macro   0x00000000       0xa0 ./obj/system_MKL36Z4.o
+ .debug_macro   0x000000a0      0xb32 ./obj/system_MKL36Z4.o
+ .debug_macro   0x00000bd2       0x22 ./obj/system_MKL36Z4.o
+ .debug_macro   0x00000bf4       0x56 ./obj/system_MKL36Z4.o
+ .debug_macro   0x00000c4a       0x51 ./obj/system_MKL36Z4.o
+ .debug_macro   0x00000c9b      0x103 ./obj/system_MKL36Z4.o
+ .debug_macro   0x00000d9e       0x6a ./obj/system_MKL36Z4.o
+ .debug_macro   0x00000e08      0x1df ./obj/system_MKL36Z4.o
+ .debug_macro   0x00000fe7       0x4b ./obj/system_MKL36Z4.o
+ .debug_macro   0x00001032       0x3a ./obj/system_MKL36Z4.o
+ .debug_macro   0x0000106c       0x26 ./obj/system_MKL36Z4.o
+ .debug_macro   0x00001092      0x306 ./obj/system_MKL36Z4.o
+ .debug_macro   0x00001398     0xc3a9 ./obj/system_MKL36Z4.o
+ .debug_macro   0x0000d741       0xe6 ./obj/dma.o
+ .debug_macro   0x0000d827       0x16 ./obj/dma.o
+ .debug_macro   0x0000d83d       0x39 ./obj/dma.o
+ .debug_macro   0x0000d876       0x34 ./obj/dma.o
+ .debug_macro   0x0000d8aa       0x46 ./obj/dma.o
+ .debug_macro   0x0000d8f0       0xa0 ./obj/dma.o
+ .debug_macro   0x0000d990      0x191 ./obj/flash.o
+ .debug_macro   0x0000db21       0x64 ./obj/flash.o
+ .debug_macro   0x0000db85       0x18 ./obj/flash.o
+ .debug_macro   0x0000db9d       0x35 ./obj/flash.o
+ .debug_macro   0x0000dbd2       0x34 ./obj/flash.o
+ .debug_macro   0x0000dc06      0x16d ./obj/flash.o
+ .debug_macro   0x0000dd73       0x16 ./obj/flash.o
+ .debug_macro   0x0000dd89       0x43 ./obj/flash.o
+ .debug_macro   0x0000ddcc       0x34 ./obj/flash.o
+ .debug_macro   0x0000de00       0x10 ./obj/flash.o
+ .debug_macro   0x0000de10       0x58 ./obj/flash.o
+ .debug_macro   0x0000de68      0x182 ./obj/flash.o
+ .debug_macro   0x0000dfea      0x35c ./obj/flash.o
+ .debug_macro   0x0000e346       0x10 ./obj/flash.o
+ .debug_macro   0x0000e356       0x35 ./obj/flash.o
+ .debug_macro   0x0000e38b       0x64 ./obj/flash.o
+ .debug_macro   0x0000e3ef      0x191 ./obj/wdog.o
+ .debug_macro   0x0000e580       0x1c ./obj/wdog.o
+ .debug_macro   0x0000e59c      0x1fa ./obj/gec.o
+ .debug_macro   0x0000e796       0x28 ./obj/gec.o
+ .debug_macro   0x0000e7be       0x9a ./obj/gec.o
+ .debug_macro   0x0000e858       0x6a ./obj/gec.o
+ .debug_macro   0x0000e8c2       0xa6 ./obj/gec.o
+ .debug_macro   0x0000e968       0x58 ./obj/gec.o
+ .debug_macro   0x0000e9c0       0x22 ./obj/gec.o
+ .debug_macro   0x0000e9e2       0x70 ./obj/gec.o
+ .debug_macro   0x0000ea52       0x22 ./obj/gec.o
+ .debug_macro   0x0000ea74      0x206 ./obj/main.o
+ .debug_macro   0x0000ec7a      0x191 ./obj/uart.o
+ .debug_macro   0x0000ee0b      0x200 ./obj/isr.o
+ .debug_macro   0x0000f00b      0x1a0 ./obj/printf.o
+
+.debug_line     0x00000000     0x3ef0
+ .debug_line    0x00000000      0x349 ./obj/system_MKL36Z4.o
+ .debug_line    0x00000349      0x562 ./obj/dma.o
+ .debug_line    0x000008ab      0x926 ./obj/flash.o
+ .debug_line    0x000011d1      0x43c ./obj/wdog.o
+ .debug_line    0x0000160d      0x56a ./obj/gec.o
+ .debug_line    0x00001b77      0x598 ./obj/main.o
+ .debug_line    0x0000210f      0xa96 ./obj/uart.o
+ .debug_line    0x00002ba5      0x531 ./obj/isr.o
+ .debug_line    0x000030d6      0xdac ./obj/printf.o
+ .debug_line    0x00003e82       0x6e ./obj/startup_MKL36Z4.o
+
+.debug_str      0x00000000    0x4efe4
+ .debug_str     0x00000000    0x4aa96 ./obj/system_MKL36Z4.o
+                              0x4aeb6 (size before relaxing)
+ .debug_str     0x0004aa96      0xa0b ./obj/dma.o
+                              0x4b87e (size before relaxing)
+ .debug_str     0x0004b4a1     0x317d ./obj/flash.o
+                              0x4e29a (size before relaxing)
+ .debug_str     0x0004e61e       0x6e ./obj/wdog.o
+                              0x4e0d4 (size before relaxing)
+ .debug_str     0x0004e68c      0x644 ./obj/gec.o
+                              0x4e9bf (size before relaxing)
+ .debug_str     0x0004ecd0       0x49 ./obj/main.o
+                              0x4e990 (size before relaxing)
+ .debug_str     0x0004ed19      0x145 ./obj/uart.o
+                              0x4e471 (size before relaxing)
+ .debug_str     0x0004ee5e        0xb ./obj/isr.o
+                              0x4e981 (size before relaxing)
+ .debug_str     0x0004ee69      0x156 ./obj/printf.o
+                              0x4e415 (size before relaxing)
+ .debug_str     0x0004efbf       0x25 ./obj/startup_MKL36Z4.o
+                                 0x76 (size before relaxing)
+
+.comment        0x00000000       0x4c
+ .comment       0x00000000       0x4c ./obj/system_MKL36Z4.o
+                                 0x4d (size before relaxing)
+ .comment       0x0000004c       0x4d ./obj/dma.o
+ .comment       0x0000004c       0x4d ./obj/flash.o
+ .comment       0x0000004c       0x4d ./obj/wdog.o
+ .comment       0x0000004c       0x4d ./obj/gec.o
+ .comment       0x0000004c       0x4d ./obj/main.o
+ .comment       0x0000004c       0x4d ./obj/uart.o
+ .comment       0x0000004c       0x4d ./obj/isr.o
+ .comment       0x0000004c       0x4d ./obj/printf.o
+
+.debug_frame    0x00000000      0x7a4
+ .debug_frame   0x00000000       0x20 ./obj/system_MKL36Z4.o
+ .debug_frame   0x00000020       0xb0 ./obj/dma.o
+ .debug_frame   0x000000d0       0xf8 ./obj/flash.o
+ .debug_frame   0x000001c8       0x40 ./obj/wdog.o
+ .debug_frame   0x00000208       0x2c ./obj/gec.o
+ .debug_frame   0x00000234       0x38 ./obj/main.o
+ .debug_frame   0x0000026c      0x16c ./obj/uart.o
+ .debug_frame   0x000003d8       0x28 ./obj/isr.o
+ .debug_frame   0x00000400      0x114 ./obj/printf.o
+ .debug_frame   0x00000514       0x20 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000534       0x20 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .debug_frame   0x00000554       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_fixunsdfsi.o)
+ .debug_frame   0x00000580       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_fixunsdfdi.o)
+ .debug_frame   0x000005ac       0x3c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x000005e8       0x38 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(eqdf2.o)
+ .debug_frame   0x00000620       0x38 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(gedf2.o)
+ .debug_frame   0x00000658       0x38 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(ledf2.o)
+ .debug_frame   0x00000690       0x3c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
+ .debug_frame   0x000006cc       0x3c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(subdf3.o)
+ .debug_frame   0x00000708       0x2c d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(fixdfsi.o)
+ .debug_frame   0x00000734       0x28 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(floatunsidf.o)
+ .debug_frame   0x0000075c       0x28 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000784       0x20 d:/tools/armnoneeabi/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memset.o)
+
+.debug_loc      0x00000000     0x2820
+ .debug_loc     0x00000000      0x1d7 ./obj/dma.o
+ .debug_loc     0x000001d7      0x77b ./obj/flash.o
+ .debug_loc     0x00000952       0x5f ./obj/wdog.o
+ .debug_loc     0x000009b1       0x24 ./obj/gec.o
+ .debug_loc     0x000009d5       0x23 ./obj/main.o
+ .debug_loc     0x000009f8      0x6aa ./obj/uart.o
+ .debug_loc     0x000010a2     0x177e ./obj/printf.o

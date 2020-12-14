@@ -1,0 +1,6 @@
+D:\JetBrains\CLion\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\WorkSpace\AHL-GEC-EXP\Temp\GPIO_UART\01_Doc
+CMake Error at CMakeLists.txt:14:
+  Parse error.  Expected "(", got unquoted argument with text ":=".
+
+
+-- Configuring incomplete, errors occurred!
