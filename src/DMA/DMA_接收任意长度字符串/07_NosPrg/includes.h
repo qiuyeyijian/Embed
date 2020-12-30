@@ -28,8 +28,7 @@
 #define G_VAR_PREFIX extern  //前缀G_VAR_PREFIX定义为"extern"
 #endif
 //（在此增加全局变量）
-G_VAR_PREFIX uint8_t gRecvBuff[512];
-G_VAR_PREFIX uint8_t gSendBuff[512];
+G_VAR_PREFIX uint8_t gRecvBuff[1024];
 G_VAR_PREFIX uint8_t gFlag;
 G_VAR_PREFIX uint32_t gLen;
 //----------------------------------------------------------------------

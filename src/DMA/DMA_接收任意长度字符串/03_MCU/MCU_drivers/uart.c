@@ -490,7 +490,7 @@ void uart_deinit(uint8_t uartNo) {
 //======================================================================
 //参数说明：uartNo: 串口号:UART_0、UART_1、UART_2
 //函数返回：无
-//功能概要：开串口接收中断
+//功能概要：使能空闲线中断
 //======================================================================
 void uart_enable_idle_int(uint8_t uartNo) {
   UART0_MemMapPtr UART_2h_0 = UART0_BASE_PTR;  //获取UART0基地址
@@ -511,7 +511,7 @@ void uart_enable_idle_int(uint8_t uartNo) {
 //======================================================================
 //参数说明：uartNo: 串口号 :UART_0、UART_1、UART_2
 //函数返回：无
-//功能概要：关串口接收中断
+//功能概要 清除空闲线中断
 //======================================================================
 void uart_clear_idle_int(uint8_t uartNo) {
   UART0_MemMapPtr UART_2h_0 = UART0_BASE_PTR;  //获取UART0基地址

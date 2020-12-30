@@ -28,11 +28,11 @@ SRC_CPPList := $(wildcard ./srcc/*.cpp)
 SRC_SList := $(wildcard ./srcs/*.S)
 
 #链接文件(.ld)的存储路径
-linkFile := "F:\WorkSpace\AHL-GEC-EXP\Temp\SPI\03_MCU\linker_file\MKL36Z64xxx4_flash.ld"
+linkFile := "F:\WorkSpace\AHL-GEC-EXP\Temp\SPI_实现基本功能\03_MCU\linker_file\MKL36Z64xxx4_flash.ld"
 #定义生成的文件名
-finalGoal := SPI
+finalGoal := SPI_实现基本功能
 #定义头文件所在的路径
-include := -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI\.idea" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI\.settings" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI\01_Doc" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI\02_CPU" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI\03_MCU" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI\04_GEC" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI\05_UserBoard" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI\07_NosPrg" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI\Debug" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI\03_MCU\linker_file" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI\03_MCU\MCU_drivers" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI\03_MCU\startup" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI\Debug\obj" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI\Debug\srcc" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI\Debug\srcs"
+include := -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI_实现基本功能\.idea" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI_实现基本功能\.settings" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI_实现基本功能\01_Doc" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI_实现基本功能\02_CPU" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI_实现基本功能\03_MCU" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI_实现基本功能\04_GEC" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI_实现基本功能\05_UserBoard" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI_实现基本功能\07_NosPrg" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI_实现基本功能\Debug" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI_实现基本功能\03_MCU\linker_file" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI_实现基本功能\03_MCU\MCU_drivers" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI_实现基本功能\03_MCU\startup" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI_实现基本功能\Debug\obj" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI_实现基本功能\Debug\srcc" -I"F:\WorkSpace\AHL-GEC-EXP\Temp\SPI_实现基本功能\Debug\srcs"
 #定义优化级别。共有O0、O1、O2、Os和Og，默认使用Og
 opt := O0
 #.o文件列表
